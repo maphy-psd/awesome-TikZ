@@ -31,6 +31,7 @@ Contents
 -   [bloques](http://www.ctan.org/tex-archive/graphics/pgf/contrib/bloques) - Generate control diagrams.
 -   [blox](http://www.ctan.org/tex-archive/graphics/pgf/contrib/blox) - Draw block diagrams, using TikZ.
 -   [bodegraph](http://www.ctan.org/tex-archive/graphics/pgf/contrib/bodegraph) - Draw Bode, Nyquist and Black plots with gnuplot and TikZ.
+-   [bohr](https://ctan.org/pkg/bohr) - Simple atom representation according to the Bohr model.
 -   [braids](http://www.ctan.org/tex-archive/graphics/pgf/contrib/braids) - Draw braid diagrams with PGF/TikZ.
 -   [celtic](http://www.ctan.org/tex-archive/graphics/pgf/contrib/celtic) - A TikZ library for drawing celtic knots.
 -   [circuitikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/circuitikz) - Draw electrical networks with TikZ.
@@ -80,6 +81,7 @@ Contents
 -   [tikz-palattice](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-palattice) - Draw particle accelerator lattices with TikZ.
 -   [tikz-qtree](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-qtree) - Use existing qtree syntax for trees in TikZ.
 -   [tikz-timing](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-timing) - Easy generation of timing diagrams as TikZ pictures.
+-   [tikzducks](https://ctan.org/pkg/tikzducks) - A little fun package for using rubber ducks in TikZ.
 -   [tikzinclude](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzinclude) - Import TikZ images from colletions.
 -   [tikzmark](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzmark) - Use TikZ's method of remembering a position on a page.
 -   [tikzorbital](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzorbital) - Atomic and molecular orbitals using TikZ.
@@ -100,6 +102,7 @@ Contents
 -   [tkz-tab](https://www.ctan.org/pkg/tkz-tab) - Tables of signs and variations using PGF/TikZ.
 -   [tkz-euclide](https://www.ctan.org/pkg/tkz-euclide) - Tools for drawing Euclidean geometry.
 -   [tkz-orm](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tkz-orm) - Create Object-Role Model (ORM) diagrams.
+-   [tqft](https://ctan.org/pkg/tqft) - Drawing TQFT diagrams with TikZ/PGF.
 -   [xebaposter](http://www.ctan.org/tex-archive/graphics/pgf/contrib/xebaposter) - Create beautiful scientific Persian/Latin posters using TikZ.
 
 ## Libraries
