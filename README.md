@@ -57,6 +57,7 @@ Contents
 -   [pgfgantt](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgfgantt) - Draw Gantt charts with TikZ.
 -   [PGFPlots](https://www.ctan.org/pkg/pgfplots) - PGFPlots draws high-quality function plots in normal or logarithmic scaling with a user-friendly interface
 -   [pgfplotstable](https://ctan.org/pkg/pgfplotstable) - Loads, rounds, formats and postprocesses numerical tables.
+-   [pixelart](https://ctan.org/pkg/pixelart) - A package to draw pixel-art pictures.
 -   [prooftrees](http://www.ctan.org/tex-archive/graphics/pgf/contrib/prooftrees) - Forest-based proof trees (symbolic logic).
 -   [pxpgfmark](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pxpgfmark) - e-pTEX driver for PGF inter-picture connections.
 -   [reotex](http://www.ctan.org/tex-archive/graphics/pgf/contrib/reotex) - Draw Reo Channels and Circuits.
