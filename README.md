@@ -24,18 +24,23 @@ Contents
 
 
 ## Packages
+-   [adigraph](https://ctan.org/pkg/adigraph) - https://ctan.org/pkg/adigraph.
 -   [aobs-tikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/aobs-tikz) - TikZ styles for creating overlaid pictures in beamer.
 -   [battleship](http://www.ctan.org/tex-archive/graphics/pgf/contrib/battleship) - A style file for typesetting Battleship logic puzzles.
+-   [bchart](https://ctan.org/pkg/bchart) - Draw simple bar charts in LATEX.
 -   [binarytree](http://www.ctan.org/tex-archive/graphics/pgf/contrib/binarytree) - Drawing binary trees using TikZ.
 -   [blochsphere](http://www.ctan.org/tex-archive/graphics/pgf/contrib/blochsphere) - Draw pseudo-3D diagrams of Bloch spheres.
 -   [bloques](http://www.ctan.org/tex-archive/graphics/pgf/contrib/bloques) - Generate control diagrams.
 -   [blox](http://www.ctan.org/tex-archive/graphics/pgf/contrib/blox) - Draw block diagrams, using TikZ.
 -   [bodegraph](http://www.ctan.org/tex-archive/graphics/pgf/contrib/bodegraph) - Draw Bode, Nyquist and Black plots with gnuplot and TikZ.
 -   [bohr](https://ctan.org/pkg/bohr) - Simple atom representation according to the Bohr model.
+-   [bondgraphs](https://ctan.org/pkg/bondgraphs) - Draws bond graphs in LATEX, using PGF/TikZ.
 -   [braids](http://www.ctan.org/tex-archive/graphics/pgf/contrib/braids) - Draw braid diagrams with PGF/TikZ.
 -   [callouts](https://ctan.org/pkg/callouts) - Put simple annotations and notes inside a picture.
 -   [celtic](http://www.ctan.org/tex-archive/graphics/pgf/contrib/celtic) - A TikZ library for drawing celtic knots.
 -   [circuitikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/circuitikz) - Draw electrical networks with TikZ.
+-   [chemfig](https://ctan.org/pkg/chemfig) - Draw molecules with easy syntax.
+-   [dynkin-diagrams](https://ctan.org/pkg/dynkin-diagrams) - Draw Dynkin, Coxeter, and Satake diagrams using TikZ.
 -   [fast-diagram](http://www.ctan.org/tex-archive/graphics/pgf/contrib/fast-diagram) - Easy generation of FAST diagrams.
 -   [flowchart](http://www.ctan.org/tex-archive/graphics/pgf/contrib/flowchart) - Shapes for drawing flowcharts, using TikZ.
 -   [forest](http://www.ctan.org/tex-archive/graphics/pgf/contrib/forest) - Drawing (linguistic) trees.
@@ -44,11 +49,16 @@ Contents
 -   [harveyballs](http://www.ctan.org/tx-archive/graphics/pgf/contrib/harveyballs) - Create Harvey Balls using TikZ.
 -   [hf-tikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/hf-tikz) - A simple way to highlight formulas and formula parts.
 -   [hobby](http://www.ctan.org/tex-archive/graphics/pgf/contrib/hobby) - An implementation of Hobby’s algorithm for PGF/TikZ.
+-   [istgame](https://ctan.org/pkg/istgame) - Drawing Game Trees with TikZ.
+-   [jflap2tikz](https://ctan.org/pkg/jflap2tikz) - Convert JFlap file into a LATEX file depicting the automaton using TikZ.
 -   [karnaugh-map](http://www.ctan.org/tex-archive/graphics/pgf/contrib/karnaugh-map) - LATEX package for drawing karnaugh maps with up to 6 variables.
 -   [karnaughmap](http://www.ctan.org/tex-archive/graphics/pgf/contrib/karnaughmap) - Typeset Karnaugh maps.
+-   [ladder](https://ctan.org/pkg/ladder) - Draw simple ladder diagrams using TikZ.
 -   [logicpuzzle](http://www.ctan.org/tex-archive/graphics/pgf/contrib/logicpuzzle) - Typeset (grid-based) logic puzzles.
 -   [makeshape](http://www.ctan.org/tex-archive/graphics/pgf/contrib/makeshape) - Declare new PGF shapes.
 -   [neuralnetwork](http://www.ctan.org/tex-archive/graphics/pgf/contrib/neuralnetwork) - Graph-drawing for neural networks.
+-   [oplotsymbl](https://ctan.org/pkg/oplotsymbl) - Some symbols which are not easily available.
+-   [pas-crosswords](https://ctan.org/pkg/pas-crosswords) - Creating crossword grids, using TikZ.
 -   [pgf-blur](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-blur) - PGF/TikZ package for "blurred" shadows.
 -   [pgf-pie](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-pie) - Draw pie charts, using PGF.
 -   [pgf-soroban](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-soroban) - Create images of the soroban using TikZ/PGF.
@@ -77,13 +87,21 @@ Contents
 -   [tikz-dependency](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-dependency) - A library for drawing dependency graphs.
 -   [tikz-dimline](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-dimline) - Technical dimension lines using PGF/TikZ.
 -   [tikz-feynman](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-feynman) - Feynman diagrams with TikZ.
+-   [tikz-feynhand](https://ctan.org/pkg/tikz-feynhand) - Feynman diagrams with TikZ.
 -   [tikz-inet](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-inet) - Draw interaction nets with TikZ.
+-   [tikz-karnaugh](https://ctan.org/pkg/tikz-karnaugh) - Typeset Karnaugh maps using TikZ.
+-   [tikz-kalender](https://ctan.org/pkg/tikz-kalender) - A LATEX based calendar using TikZ.
+-   [tikz-ladder](https://ctan.org/pkg/tikz-ladder) - Draw ladder diagrams using TikZ.
+-   [tikz-layers](https://ctan.org/pkg/tikz-layers) - TikZ provides graphical layers on TikZ: "behind", "above" and "glass".
 -   [tikz-opm](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-opm) - Typeset OPM diagrams.
 -   [tikz-optics](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-optics) - A library for drawing optical setups with TikZ.
 -   [tikz-page](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-page) - Small macro to help building nice and complex layout materials.
 -   [tikz-palattice](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-palattice) - Draw particle accelerator lattices with TikZ.
 -   [tikz-qtree](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-qtree) - Use existing qtree syntax for trees in TikZ.
+-   [tikz-relay](https://ctan.org/pkg/tikz-relay) - TikZ library for typesetting electrical diagrams.
+-   [tikz-sfc](https://ctan.org/pkg/tikz-sfc) - Symbols collection for typesetting Sequential Function Chart (SFC) diagrams (PLC programs).
 -   [tikz-timing](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-timing) - Easy generation of timing diagrams as TikZ pictures.
+-   [tikzcodeblocks](https://ctan.org/pkg/tikzcodeblocks) - Helps to draw codeblocks like scratch, NEPO and PXT in TikZ.
 -   [tikzducks](https://ctan.org/pkg/tikzducks) - A little fun package for using rubber ducks in TikZ.
 -   [tikzinclude](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzinclude) - Import TikZ images from colletions.
 -   [tikzmark](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzmark) - Use TikZ's method of remembering a position on a page.
