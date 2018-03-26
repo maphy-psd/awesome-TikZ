@@ -33,14 +33,15 @@ Contents
 -   [bodegraph](http://www.ctan.org/tex-archive/graphics/pgf/contrib/bodegraph) - Draw Bode, Nyquist and Black plots with gnuplot and TikZ.
 -   [bohr](https://ctan.org/pkg/bohr) - Simple atom representation according to the Bohr model.
 -   [braids](http://www.ctan.org/tex-archive/graphics/pgf/contrib/braids) - Draw braid diagrams with PGF/TikZ.
+-   [callouts](https://ctan.org/pkg/callouts) - Put simple annotations and notes inside a picture.
 -   [celtic](http://www.ctan.org/tex-archive/graphics/pgf/contrib/celtic) - A TikZ library for drawing celtic knots.
--   [circuitikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/circuitikz) - Draw electrical networks with TikZ.
--   [fast-diagram](http://www.ctan.org/tex-archive/graphics/pgf/contrib/fast-diagram) - Easy generation of FAST diagrams.
+-   [circuitikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/circuitikz) - Draw electrical networks with TikZ.
+-   [fast-diagram](http://www.ctan.org/tex-archive/graphics/pgf/contrib/fast-diagram) - Easy generation of FAST diagrams.
 -   [flowchart](http://www.ctan.org/tex-archive/graphics/pgf/contrib/flowchart) - Shapes for drawing flowcharts, using TikZ.
 -   [forest](http://www.ctan.org/tex-archive/graphics/pgf/contrib/forest) - Drawing (linguistic) trees.
--   [grafcet](http://www.ctan.org/tex-archive/graphics/pgf/contrib/grafcet) - Draw Grafcet/SFC with TikZ.
--   [graph35](https://www.ctan.org/pkg/graph35) - Draw keys and screen items of several Casio calculators.
--   [harveyballs](http://www.ctan.org/tx-archive/graphics/pgf/contrib/harveyballs) - Create Harvey Balls using TikZ.
+-   [grafcet](http://www.ctan.org/tex-archive/graphics/pgf/contrib/grafcet) - Draw Grafcet/SFC with TikZ.
+-   [graph35](https://www.ctan.org/pkg/graph35) - Draw keys and screen items of several Casio calculators.
+-   [harveyballs](http://www.ctan.org/tx-archive/graphics/pgf/contrib/harveyballs) - Create Harvey Balls using TikZ.
 -   [hf-tikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/hf-tikz) - A simple way to highlight formulas and formula parts.
 -   [hobby](http://www.ctan.org/tex-archive/graphics/pgf/contrib/hobby) - An implementation of Hobby’s algorithm for PGF/TikZ.
 -   [karnaugh-map](http://www.ctan.org/tex-archive/graphics/pgf/contrib/karnaugh-map) - LATEX package for drawing karnaugh maps with up to 6 variables.
