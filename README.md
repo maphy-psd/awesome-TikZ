@@ -12,12 +12,13 @@ Contents
 -   [Official Links](#official-links)
 -   [Packages](#packages)
 -   [Libraries](#libraries)
+-   [TikZ in action](#tikz-in-action)
 -   [Books](#books)
 -   [Gallery](#gallery)
 -   [Community](#community)
 -   [Tools](#tools)
 
-## Official Links PGF/TikZ
+## Official Links
 
 -   [SourceForge](https://sourceforge.net/projects/pgf/) - Code, releases, support and bug reports.
 -   [CTAN](https://www.ctan.org/pkg/pgf) - Latest version release.
@@ -72,6 +73,7 @@ Contents
 -   [mdframed](https://ctan.org/pkg/mdframed) - Framed environments that can split at page boundaries.
 -   [metrix](https://ctan.org/pkg/metrix) - Typeset metric marks for Latin text.
 -   [modiagram](https://ctan.org/pkg/modiagram) - Drawing molecular orbital diagrams.
+-   [moderntimeline](https://ctan.org/pkg/moderntimeline) - Timelines for use with moderncv.
 -   [mycv](https://ctan.org/pkg/mycv) - A list-driven CV class, allowing TikZ decorations.
 -   [neuralnetwork](http://www.ctan.org/tex-archive/graphics/pgf/contrib/neuralnetwork) - Graph-drawing for neural networks.
 -   [nicematrix](https://ctan.org/pkg/nicematrix) - Matrices with continuous dotted lines drawn with TikZ.
@@ -161,7 +163,18 @@ Contents
 
 ## Libraries
 
-
+## TikZ in action
+-   [Distribute evenly and randomly circles](https://tex.stackexchange.com/questions/87497/tikz-distribute-evenly-and-randomly-circles)
+-   [Cool Text Highlighting in LaTeX](https://tex.stackexchange.com/a/6029/41901)
+-   [Extract x, y coordinate of an arbitrary point in TikZ](https://tex.stackexchange.com/a/33706/41901)
+-   [3D bodies in TikZ](https://tex.stackexchange.com/q/42812/41901)
+-   [Manual/automatic line breaks and text alignment in TikZ nodes](https://tex.stackexchange.com/a/124114/41901)
+-   [How to scale a tikzpicture including texts?](https://tex.stackexchange.com/a/26852/41901)
+-   [How can we draw a Christmas tree with decorations, using TikZ?](https://tex.stackexchange.com/q/39149/41901)
+-   [How can we display fireworks?](https://tex.stackexchange.com/q/39485/41901)
+-   [Simulating hand-drawn lines](https://tex.stackexchange.com/a/49961/41901)
+-   [How to draw a Sankey Diagram using TikZ](https://tex.stackexchange.com/a/88821/41901)
+-   [Sieve of Eratosthenes in tikz](https://tex.stackexchange.com/q/44673/41901)
 
 ## Books
 
