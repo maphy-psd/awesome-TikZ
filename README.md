@@ -162,6 +162,7 @@ Contents
 -   [xebaposter](http://www.ctan.org/tex-archive/graphics/pgf/contrib/xebaposter) - Create beautiful scientific Persian/Latin posters using TikZ.
 
 ## Libraries
+-   [List of available TikZ libraries with a short introduction](https://tex.stackexchange.com/q/42611/41901)
 
 ## TikZ in action
 -   [Distribute evenly and randomly circles](https://tex.stackexchange.com/questions/87497/tikz-distribute-evenly-and-randomly-circles)
