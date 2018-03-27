@@ -24,10 +24,13 @@ Contents
 
 
 ## Packages
--   [adigraph](https://ctan.org/pkg/adigraph) - https://ctan.org/pkg/adigraph.
+-   [adigraph](https://ctan.org/pkg/adigraph) - Augmenting directed graphs.
+-   [algobox](https://ctan.org/pkg/algobox) - Typeset Algobox programs.
 -   [aobs-tikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/aobs-tikz) - TikZ styles for creating overlaid pictures in beamer.
+-   [background](https://ctan.org/pkg/background) - Placement of background material on pages of a document.
 -   [battleship](http://www.ctan.org/tex-archive/graphics/pgf/contrib/battleship) - A style file for typesetting Battleship logic puzzles.
 -   [bchart](https://ctan.org/pkg/bchart) - Draw simple bar charts in LATEX.
+-   [bclogo](https://ctan.org/pkg/bclogo) - Creating colourful boxes with logos.
 -   [binarytree](http://www.ctan.org/tex-archive/graphics/pgf/contrib/binarytree) - Drawing binary trees using TikZ.
 -   [blochsphere](http://www.ctan.org/tex-archive/graphics/pgf/contrib/blochsphere) - Draw pseudo-3D diagrams of Bloch spheres.
 -   [bloques](http://www.ctan.org/tex-archive/graphics/pgf/contrib/bloques) - Generate control diagrams.
@@ -42,13 +45,18 @@ Contents
 -   [circuitikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/circuitikz) - Draw electrical networks with TikZ.
 -   [chemfig](https://ctan.org/pkg/chemfig) - Draw molecules with easy syntax.
 -   [chemschemex](https://ctan.org/pkg/chemschemex) - Typeset and cross-reference chemical schemes based on TikZ code.
+-   [cpssp](https://ctan.org/pkg/cpssp) - Draw protein secondary structures.
+-   [drawstack](https://ctan.org/pkg/drawstack) - Draw execution stacks.
+-   [duotenzor](https://ctan.org/pkg/duotenzor) - Drawing package for circuit and duotensor diagrams.
 -   [dynkin-diagrams](https://ctan.org/pkg/dynkin-diagrams) - Draw Dynkin, Coxeter, and Satake diagrams using TikZ.
 -   [fancytabs](https://ctan.org/pkg/fancytabs) - Fancy page border tabs.
 -   [fast-diagram](http://www.ctan.org/tex-archive/graphics/pgf/contrib/fast-diagram) - Easy generation of FAST diagrams.
 -   [flowchart](http://www.ctan.org/tex-archive/graphics/pgf/contrib/flowchart) - Shapes for drawing flowcharts, using TikZ.
--   [forest](http://www.ctan.org/tex-archive/graphics/pgf/contrib/forest) - Drawing (linguistic) trees.
+-   [forest](http://www.ctan.org/tex-archive/graphics/pgf/contrib/forest) - Drawing (linguistic) trees ([forest-quickstart](https://ctan.org/pkg/forest-quickstart)).
+-   [genealogytree](https://ctan.org/pkg/genealogytree) - Pedigree and genealogical tree diagrams.
 -   [grafcet](http://www.ctan.org/tex-archive/graphics/pgf/contrib/grafcet) - Draw Grafcet/SFC with TikZ.
 -   [graph35](https://www.ctan.org/pkg/graph35) - Draw keys and screen items of several Casio calculators.
+-   [guitarchordschemes](https://ctan.org/pkg/guitarchordschemes) - Guitar Chord and Scale Tablatures.
 -   [harveyballs](http://www.ctan.org/tx-archive/graphics/pgf/contrib/harveyballs) - Create Harvey Balls using TikZ.
 -   [havannah](https://ctan.org/pkg/havannah) - Diagrams of board positions in the games of Havannah and Hex.
 -   [hf-tikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/hf-tikz) - A simple way to highlight formulas and formula parts.
@@ -61,12 +69,16 @@ Contents
 -   [luamesh](https://ctan.org/pkg/luamesh) - Computes and draws 2D Delaunay triangulation.
 -   [logicpuzzle](http://www.ctan.org/tex-archive/graphics/pgf/contrib/logicpuzzle) - Typeset (grid-based) logic puzzles.
 -   [makeshape](http://www.ctan.org/tex-archive/graphics/pgf/contrib/makeshape) - Declare new PGF shapes.
+-   [mdframed](https://ctan.org/pkg/mdframed) - Framed environments that can split at page boundaries.
+-   [metrix](https://ctan.org/pkg/metrix) - Typeset metric marks for Latin text.
+-   [modiagram](https://ctan.org/pkg/modiagram) - Drawing molecular orbital diagrams.
 -   [mycv](https://ctan.org/pkg/mycv) - A list-driven CV class, allowing TikZ decorations.
 -   [neuralnetwork](http://www.ctan.org/tex-archive/graphics/pgf/contrib/neuralnetwork) - Graph-drawing for neural networks.
 -   [nicematrix](https://ctan.org/pkg/nicematrix) - Matrices with continuous dotted lines drawn with TikZ.
 -   [oplotsymbl](https://ctan.org/pkg/oplotsymbl) - Some symbols which are not easily available.
 -   [pas-crosswords](https://ctan.org/pkg/pas-crosswords) - Creating crossword grids, using TikZ.
 -   [pas-tableur](https://ctan.org/pkg/pas-tableur) - Create a spreadsheet layout.
+-   [pdfreview](https://ctan.org/pkg/pdfreview) - Annotate PDF files with margin notes.
 -   [pgf-blur](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-blur) - PGF/TikZ package for "blurred" shadows.
 -   [pgf-pie](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-pie) - Draw pie charts, using PGF.
 -   [pgf-soroban](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-soroban) - Create images of the soroban using TikZ/PGF.
@@ -78,10 +90,15 @@ Contents
 -   [pgfplots](https://www.ctan.org/pkg/pgfplots) - Create normal/logarithmic plots in two and three dimensions
 -   [pgfplotstable](https://ctan.org/pkg/pgfplotstable) - Loads, rounds, formats and postprocesses numerical tables.
 -   [pixelart](https://ctan.org/pkg/pixelart) - A package to draw pixel-art pictures.
+-   [productbox](https://ctan.org/pkg/productbox) - Typeset a three-dimensional product box.
+-   [progressbar](https://ctan.org/pkg/progressbar) - Visualize shares of total amounts in the form of a (progress-)bar.
 -   [prooftrees](http://www.ctan.org/tex-archive/graphics/pgf/contrib/prooftrees) - Forest-based proof trees (symbolic logic).
+-   [pstring](https://ctan.org/pkg/pstring) - Typeset sequences with justification pointers.
 -   [pxpgfmark](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pxpgfmark) - e-pTEX driver for PGF inter-picture connections.
 -   [randomwalk](https://ctan.org/pkg/randomwalk) - Random walks using TikZ.
 -   [reotex](http://www.ctan.org/tex-archive/graphics/pgf/contrib/reotex) - Draw Reo Channels and Circuits.
+-   [rubikcube](https://ctan.org/pkg/rubikcube) - Typeset Rubik cubes and move notation.
+-   [rubiktwocube](https://ctan.org/pkg/rubiktwocube) - Typeset Rubik TwoCubes and move notation.
 -   [rulercompass](http://www.ctan.org/tex-archive/graphics/pgf/contrib/rulercompass) - A TikZ library for straight-edge and compass diagrams.
 -   [sa-tikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/sa-tikz) - TikZ library to draw switching architectures.
 -   [schemabloc](http://www.ctan.org/tex-archive/graphics/pgf/contrib/schemabloc) - Draw block diagrams, using TikZ.
@@ -136,6 +153,7 @@ Contents
 -   [tkz-tab](https://www.ctan.org/pkg/tkz-tab) - Tables of signs and variations using PGF/TikZ.
 -   [tkz-euclide](https://www.ctan.org/pkg/tkz-euclide) - Tools for drawing Euclidean geometry.
 -   [tkz-orm](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tkz-orm) - Create Object-Role Model (ORM) diagrams.
+-   [tsemlines](https://ctan.org/pkg/tsemlines) - Support for the ancient \emline macro.
 -   [tqft](https://ctan.org/pkg/tqft) - Drawing TQFT diagrams with TikZ/PGF.
 -   [venndiagram](https://ctan.org/pkg/venndiagram) - Creating Venn diagrams with TikZ.
 -   [witharrows](https://ctan.org/pkg/witharrows) - "Aligned" math environments with arrows for comments.
@@ -164,6 +182,8 @@ Contents
 
 ## Tools
 
+-   [dot2texi](https://ctan.org/pkg/dot2texi) - Create graphs within LATEX using the dot2tex tool.
+-   [esk](https://ctan.org/pkg/esk) - Package to encapsulate Sketch files in LATEX sources.
 -   [tikzedt](http://www.tikzedt.org/) - A combined WYSIWYG/text editor designed for editing Tikz code.
 -   [ktikz](https://github.com/fhackenberger/ktikz) - Provides a nice user interface for making pictures using TikZ.
 -   [gratex](https://sourceforge.net/projects/gratex/) - Visual graph creator for LaTeX (PGF & TikZ).
