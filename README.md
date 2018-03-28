@@ -176,6 +176,7 @@ Contents
 -   [Simulating hand-drawn lines](https://tex.stackexchange.com/a/49961/41901)
 -   [How to draw a Sankey Diagram using TikZ](https://tex.stackexchange.com/a/88821/41901)
 -   [Sieve of Eratosthenes in tikz](https://tex.stackexchange.com/q/44673/41901)
+-   [https://github.com/mcnees/LaTeX-Graph-Paper](Make your own quadrille, graph, hex, etc. paper!)
 
 ## Books
 
