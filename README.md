@@ -30,6 +30,7 @@ Contents
 -   [aobs-tikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/aobs-tikz) - TikZ styles for creating overlaid pictures in beamer.
 -   [background](https://ctan.org/pkg/background) - Placement of background material on pages of a document.
 -   [battleship](http://www.ctan.org/tex-archive/graphics/pgf/contrib/battleship) - A style file for typesetting Battleship logic puzzles.
+-   [bezierplot](https://www.ctan.org/pkg/bezierplot) - bezierplot approximates smooth function graphs with cubic bezier splines in order to be used with TikZ or METAPOST. ([source](https://github.com/linusromer/bezierplot))
 -   [bchart](https://ctan.org/pkg/bchart) - Draw simple bar charts in LATEX.
 -   [bclogo](https://ctan.org/pkg/bclogo) - Creating colourful boxes with logos.
 -   [binarytree](http://www.ctan.org/tex-archive/graphics/pgf/contrib/binarytree) - Drawing binary trees using TikZ.
@@ -112,6 +113,7 @@ Contents
 -   [spectralsequences](https://ctan.org/pkg/spectralsequences) - Print spectral sequence diagrams using PGF/TikZ.
 -   [spath3](http://www.ctan.org/tex-archive/graphics/pgf/contrib/spath3) - Manipulate “soft paths” in PGF.
 -   [stanli](http://www.ctan.org/tex-archive/graphics/pgf/contrib/stanli) - TikZ Library for Structural Analysis.
+-   [structmech](https://www.ctan.org/pkg/structmech) - A TikZ command set for structural mechanics drawings.
 -   [ticollege](http://www.ctan.org/tex-archive/graphics/pgf/contrib/ticollege) - Graphical representation of keys on a standard scientific calculator.
 -   [tikz-3dplot](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-3dplot) - Coordinate transformation styles for 3d plotting in TikZ.
 -   [tikz-bayesnet](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-bayesnet) - Draw Bayesian networks, graphical models and directed factor graphs.
@@ -143,7 +145,7 @@ Contents
 -   [tikzpfeile](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzpfeile) - Draw arrows using PGF/TikZ.
 -   [tikzposter](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzposter) - Create scientific posters using TikZ.
 -   [tikzscale](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzscale) - Resize pictures while respecting text size.
--   [tikzsymbols](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzsymbols) - Some symbols created using TikZ.
+-   [tikzsymbols](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzsymbols) - Some symbols created using TikZ. ([source](https://github.com/Vidabe/tikzsymbols))
 -   [timing-diagrams](http://www.ctan.org/tex-archive/graphics/pgf/contrib/timing-diagrams) - Draw timing diagrams.
 -   [tipfr](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tipfr) - Produces calculator's keys with the help of TikZ.
 -   [tkz-base](https://www.ctan.org/pkg/tkz-base) - Tools for drawing with a cartesian coordinate system.
