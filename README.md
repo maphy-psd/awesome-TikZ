@@ -73,6 +73,7 @@ Contents
 -   [makeshape](http://www.ctan.org/tex-archive/graphics/pgf/contrib/makeshape) - Declare new PGF shapes.
 -   [mdframed](https://ctan.org/pkg/mdframed) - Framed environments that can split at page boundaries.
 -   [metrix](https://ctan.org/pkg/metrix) - Typeset metric marks for Latin text.
+-   [MilSymb](https://www.ctan.org/pkg/milsymb) - LATEX package for TikZ based drawing of military symbols as per NATO APP-6(C).
 -   [modiagram](https://ctan.org/pkg/modiagram) - Drawing molecular orbital diagrams.
 -   [moderntimeline](https://ctan.org/pkg/moderntimeline) - Timelines for use with moderncv.
 -   [mycv](https://ctan.org/pkg/mycv) - A list-driven CV class, allowing TikZ decorations.
