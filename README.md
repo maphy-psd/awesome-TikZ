@@ -59,6 +59,7 @@ Contents
 -   [grafcet](http://www.ctan.org/tex-archive/graphics/pgf/contrib/grafcet) - Draw Grafcet/SFC with TikZ.
 -   [graph35](https://www.ctan.org/pkg/graph35) - Draw keys and screen items of several Casio calculators.
 -   [guitarchordschemes](https://ctan.org/pkg/guitarchordschemes) - Guitar Chord and Scale Tablatures.
+-   [guitartabs](https://www.ctan.org/pkg/guitartabs) - A class for drawing guitar tablatures easily.
 -   [harveyballs](http://www.ctan.org/tx-archive/graphics/pgf/contrib/harveyballs) - Create Harvey Balls using TikZ.
 -   [havannah](https://ctan.org/pkg/havannah) - Diagrams of board positions in the games of Havannah and Hex.
 -   [hf-tikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/hf-tikz) - A simple way to highlight formulas and formula parts.
