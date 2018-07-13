@@ -141,6 +141,7 @@ Contents
 -   [tikzducks](https://ctan.org/pkg/tikzducks) - A little fun package for using rubber ducks in TikZ.
 -   [tikzinclude](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzinclude) - Import TikZ images from colletions.
 -   [tikzmark](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzmark) - Use TikZ's method of remembering a position on a page.
+-   [TikZmarmots](https://www.ctan.org/pkg/tikzmarmots) - Drawing little marmots in TikZ.
 -   [tikzorbital](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzorbital) - Atomic and molecular orbitals using TikZ.
 -   [tikzpagenodes](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzpagenodes) - A single TikZ node for the whole page.
 -   [tikzpeople](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzpeople) - Draw people-shaped nodes in TikZ.
