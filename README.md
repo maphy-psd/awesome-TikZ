@@ -130,6 +130,7 @@ Contents
 -   [tikz-kalender](https://ctan.org/pkg/tikz-kalender) - A LATEX based calendar using TikZ.
 -   [tikz-ladder](https://ctan.org/pkg/tikz-ladder) - Draw ladder diagrams using TikZ.
 -   [tikz-layers](https://ctan.org/pkg/tikz-layers) - TikZ provides graphical layers on TikZ: "behind", "above" and "glass".
+-   [tikz-nef](https://ctan.org/pkg/tikz-nef) - create diagrams for neural networks constructed with the methods of the Neural Engineering Framework (NEF).
 -   [tikz-network](https://www.ctan.org/pkg/tikz-network) - Draw networks with TikZ.
 -   [tikz-opm](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-opm) - Typeset OPM diagrams.
 -   [tikz-optics](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-optics) - A library for drawing optical setups with TikZ.
