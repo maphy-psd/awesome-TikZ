@@ -66,6 +66,7 @@ Contents
 -   [hobby](http://www.ctan.org/tex-archive/graphics/pgf/contrib/hobby) - An implementation of Hobby’s algorithm for PGF/TikZ.
 -   [istgame](https://ctan.org/pkg/istgame) - Drawing Game Trees with TikZ.
 -   [jflap2tikz](https://ctan.org/pkg/jflap2tikz) - Convert JFlap file into a LATEX file depicting the automaton using TikZ.
+-   [jigsaw](https://www.ctan.org/pkg/jigsaw) - Draw jigsaw pieces with TikZ.
 -   [karnaugh-map](http://www.ctan.org/tex-archive/graphics/pgf/contrib/karnaugh-map) - LATEX package for drawing karnaugh maps with up to 6 variables.
 -   [karnaughmap](http://www.ctan.org/tex-archive/graphics/pgf/contrib/karnaughmap) - Typeset Karnaugh maps.
 -   [ladder](https://ctan.org/pkg/ladder) - Draw simple ladder diagrams using TikZ.
@@ -102,6 +103,7 @@ Contents
 -   [pstring](https://ctan.org/pkg/pstring) - Typeset sequences with justification pointers.
 -   [pxpgfmark](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pxpgfmark) - e-pTEX driver for PGF inter-picture connections.
 -   [randomwalk](https://ctan.org/pkg/randomwalk) - Random walks using TikZ.
+-   [rank-2-roots](https://www.ctan.org/pkg/rank-2-roots) - Draw (mathematical) rank 2 root systems.
 -   [reotex](http://www.ctan.org/tex-archive/graphics/pgf/contrib/reotex) - Draw Reo Channels and Circuits.
 -   [rubikcube](https://ctan.org/pkg/rubikcube) - Typeset Rubik cubes and move notation.
 -   [rubiktwocube](https://ctan.org/pkg/rubiktwocube) - Typeset Rubik TwoCubes and move notation.
