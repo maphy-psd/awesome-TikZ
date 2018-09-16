@@ -102,6 +102,7 @@ Contents
 -   [prooftrees](http://www.ctan.org/tex-archive/graphics/pgf/contrib/prooftrees) - Forest-based proof trees (symbolic logic).
 -   [pstring](https://ctan.org/pkg/pstring) - Typeset sequences with justification pointers.
 -   [pxpgfmark](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pxpgfmark) - e-pTEX driver for PGF inter-picture connections.
+-   [quantikz](https://www.ctan.org/pkg/quantikz) - Draw quantum circuit diagrams.
 -   [randomwalk](https://ctan.org/pkg/randomwalk) - Random walks using TikZ.
 -   [rank-2-roots](https://www.ctan.org/pkg/rank-2-roots) - Draw (mathematical) rank 2 root systems.
 -   [reotex](http://www.ctan.org/tex-archive/graphics/pgf/contrib/reotex) - Draw Reo Channels and Circuits.
