@@ -69,6 +69,7 @@ Contents
 -   [jigsaw](https://www.ctan.org/pkg/jigsaw) - Draw jigsaw pieces with TikZ.
 -   [karnaugh-map](http://www.ctan.org/tex-archive/graphics/pgf/contrib/karnaugh-map) - LATEX package for drawing karnaugh maps with up to 6 variables.
 -   [karnaughmap](http://www.ctan.org/tex-archive/graphics/pgf/contrib/karnaughmap) - Typeset Karnaugh maps.
+-   [kvmap](https://www.ctan.org/pkg/kvmap) - Create Karnaugh maps with LATEX.
 -   [ladder](https://ctan.org/pkg/ladder) - Draw simple ladder diagrams using TikZ.
 -   [luamesh](https://ctan.org/pkg/luamesh) - Computes and draws 2D Delaunay triangulation.
 -   [logicpuzzle](http://www.ctan.org/tex-archive/graphics/pgf/contrib/logicpuzzle) - Typeset (grid-based) logic puzzles.
