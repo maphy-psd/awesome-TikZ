@@ -88,6 +88,7 @@ Contents
 -   [pdfreview](https://ctan.org/pkg/pdfreview) - Annotate PDF files with margin notes.
 -   [penrose](https://www.ctan.org/pkg/penrose) - A TikZ library for producing Penrose tilings.
 -   [pgf-blur](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-blur) - PGF/TikZ package for "blurred" shadows.
+-   [pgf-cmykshadings](https://www.ctan.org/pkg/pgf-cmykshadings) - Support for CMYK and grayscale shadings in PGF/TikZ.
 -   [pgf-pie](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-pie) - Draw pie charts, using PGF.
 -   [pgf-soroban](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-soroban) - Create images of the soroban using TikZ/PGF.
 -   [pgf-spectra](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-spectra) - Draw continuous or discrete spectra using PGF/TikZ.
