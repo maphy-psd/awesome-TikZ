@@ -122,6 +122,7 @@ Contents
 -   [spath3](http://www.ctan.org/tex-archive/graphics/pgf/contrib/spath3) - Manipulate “soft paths” in PGF.
 -   [stanli](http://www.ctan.org/tex-archive/graphics/pgf/contrib/stanli) - TikZ Library for Structural Analysis.
 -   [structmech](https://www.ctan.org/pkg/structmech) - A TikZ command set for structural mechanics drawings.
+-   [tablvar](https://www.ctan.org/pkg/tablvar) - Typesetting pretty tables of signs and variations according to French usage.
 -   [ticollege](http://www.ctan.org/tex-archive/graphics/pgf/contrib/ticollege) - Graphical representation of keys on a standard scientific calculator.
 -   [tikz-3dplot](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-3dplot) - Coordinate transformation styles for 3d plotting in TikZ.
 -   [tikz-bayesnet](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-bayesnet) - Draw Bayesian networks, graphical models and directed factor graphs.
