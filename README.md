@@ -47,6 +47,7 @@ Contents
 -   [circuitikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/circuitikz) - Draw electrical networks with TikZ.
 -   [chemfig](https://ctan.org/pkg/chemfig) - Draw molecules with easy syntax.
 -   [chemschemex](https://ctan.org/pkg/chemschemex) - Typeset and cross-reference chemical schemes based on TikZ code.
+-   [chordbars](https://www.ctan.org/pkg/chordbars) - Print chord grids for pop/jazz tunes.
 -   [cpssp](https://ctan.org/pkg/cpssp) - Draw protein secondary structures.
 -   [drawstack](https://ctan.org/pkg/drawstack) - Draw execution stacks.
 -   [duotenzor](https://ctan.org/pkg/duotenzor) - Drawing package for circuit and duotensor diagrams.
@@ -74,6 +75,7 @@ Contents
 -   [luamesh](https://ctan.org/pkg/luamesh) - Computes and draws 2D Delaunay triangulation.
 -   [logicpuzzle](http://www.ctan.org/tex-archive/graphics/pgf/contrib/logicpuzzle) - Typeset (grid-based) logic puzzles.
 -   [makeshape](http://www.ctan.org/tex-archive/graphics/pgf/contrib/makeshape) - Declare new PGF shapes.
+-   [memorygraphs](https://www.ctan.org/pkg/memorygraphs) - TikZ styles to typeset graphs of program memory.
 -   [mdframed](https://ctan.org/pkg/mdframed) - Framed environments that can split at page boundaries.
 -   [metrix](https://ctan.org/pkg/metrix) - Typeset metric marks for Latin text.
 -   [MilSymb](https://www.ctan.org/pkg/milsymb) - LATEX package for TikZ based drawing of military symbols as per NATO APP-6(C).
