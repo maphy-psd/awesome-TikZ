@@ -48,6 +48,7 @@ Contents
 -   [chemfig](https://ctan.org/pkg/chemfig) - Draw molecules with easy syntax.
 -   [chemschemex](https://ctan.org/pkg/chemschemex) - Typeset and cross-reference chemical schemes based on TikZ code.
 -   [chordbars](https://www.ctan.org/pkg/chordbars) - Print chord grids for pop/jazz tunes.
+-   [chordbox](https://www.ctan.org/pkg/chordbox) - Draw chord diagrams.
 -   [cpssp](https://ctan.org/pkg/cpssp) - Draw protein secondary structures.
 -   [drawstack](https://ctan.org/pkg/drawstack) - Draw execution stacks.
 -   [duotenzor](https://ctan.org/pkg/duotenzor) - Drawing package for circuit and duotensor diagrams.
@@ -115,8 +116,9 @@ Contents
 -   [rulercompass](http://www.ctan.org/tex-archive/graphics/pgf/contrib/rulercompass) - A TikZ library for straight-edge and compass diagrams.
 -   [sa-tikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/sa-tikz) - TikZ library to draw switching architectures.
 -   [schemabloc](http://www.ctan.org/tex-archive/graphics/pgf/contrib/schemabloc) - Draw block diagrams, using TikZ.
--   [scratch](https://ctan.org/pkg/scratch) - Draw programs like "scratch".
+-   [scratch](https://ctan.org/pkg/scratch) - Draw programs like "scratch". (obsolete - see scratch3)
 -   [scratchx](https://ctan.org/pkg/scratchx) - Include Scratch programs in LATEX documents.
+-   [scratch3](https://www.ctan.org/pkg/scratch3) - Draw programs like "scratch".
 -   [scsnowman](http://www.ctan.org/tex-archive/graphics/pgf/contrib/scsnowman) - Snowman variants using TikZ.
 -   [setdeck](http://www.ctan.org/tex-archive/graphics/pgf/contrib/setdeck) - Typeset cards for Set.
 -   [smartdiagram](http://www.ctan.org/tex-archive/graphics/pgf/contrib/smartdiagram) - Generate diagrams from lists.
@@ -133,6 +135,7 @@ Contents
 -   [tikz-dimline](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-dimline) - Technical dimension lines using PGF/TikZ.
 -   [tikz-feynman](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-feynman) - Feynman diagrams with TikZ.
 -   [tikz-feynhand](https://ctan.org/pkg/tikz-feynhand) - Feynman diagrams with TikZ.
+-   [tikz-imagelabels](https://www.ctan.org/pkg/tikz-imagelabels) - Put labels on images using TikZ.
 -   [tikz-inet](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-inet) - Draw interaction nets with TikZ.
 -   [tikz-karnaugh](https://ctan.org/pkg/tikz-karnaugh) - Typeset Karnaugh maps using TikZ.
 -   [tikz-kalender](https://ctan.org/pkg/tikz-kalender) - A LATEX based calendar using TikZ.
