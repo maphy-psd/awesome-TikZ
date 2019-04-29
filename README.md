@@ -106,6 +106,7 @@ Contents
 -   [progressbar](https://ctan.org/pkg/progressbar) - Visualize shares of total amounts in the form of a (progress-)bar.
 -   [prooftrees](http://www.ctan.org/tex-archive/graphics/pgf/contrib/prooftrees) - Forest-based proof trees (symbolic logic).
 -   [pstring](https://ctan.org/pkg/pstring) - Typeset sequences with justification pointers.
+-   [ptolemaicastronomy](https://www.ctan.org/pkg/ptolemaicastronomy) - Diagrams of sphere models for variably strict conditionals (Lewis counterfactuals).
 -   [pxpgfmark](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pxpgfmark) - e-pTEX driver for PGF inter-picture connections.
 -   [quantikz](https://www.ctan.org/pkg/quantikz) - Draw quantum circuit diagrams.
 -   [randomwalk](https://ctan.org/pkg/randomwalk) - Random walks using TikZ.
