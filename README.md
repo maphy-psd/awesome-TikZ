@@ -42,7 +42,7 @@ Contents
 -   [bondgraph](https://ctan.org/pkg/bondgraph) - Create bond graph figures in LATEX documents.
 -   [bondgraphs](https://ctan.org/pkg/bondgraphs) - Draws bond graphs in LATEX, using PGF/TikZ.
 -   [braids](http://www.ctan.org/tex-archive/graphics/pgf/contrib/braids) - Draw braid diagrams with PGF/TikZ.
--   [bussproofs-extra](https://www.ctan.org/pkg/bussproofs-extra) - bussproofs-extra – Extra commands for [bussproofs.sty](https://www.ctan.org/pkg/bussproofs).
+-   [bussproofs-extra](https://www.ctan.org/pkg/bussproofs-extra) - Extra commands for [bussproofs.sty](https://www.ctan.org/pkg/bussproofs).
 -   [callouts](https://ctan.org/pkg/callouts) - Put simple annotations and notes inside a picture.
 -   [celtic](http://www.ctan.org/tex-archive/graphics/pgf/contrib/celtic) - A TikZ library for drawing celtic knots.
 -   [circuitikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/circuitikz) - Draw electrical networks with TikZ.
