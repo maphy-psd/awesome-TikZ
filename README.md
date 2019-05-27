@@ -66,6 +66,7 @@ Contents
 -   [harveyballs](http://www.ctan.org/tx-archive/graphics/pgf/contrib/harveyballs) - Create Harvey Balls using TikZ.
 -   [havannah](https://ctan.org/pkg/havannah) - Diagrams of board positions in the games of Havannah and Hex.
 -   [hf-tikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/hf-tikz) - A simple way to highlight formulas and formula parts.
+-   [hmtrump](https://www.ctan.org/pkg/hmtrump) - Describe card games.
 -   [hobby](http://www.ctan.org/tex-archive/graphics/pgf/contrib/hobby) - An implementation of Hobby’s algorithm for PGF/TikZ.
 -   [istgame](https://ctan.org/pkg/istgame) - Drawing Game Trees with TikZ.
 -   [jflap2tikz](https://ctan.org/pkg/jflap2tikz) - Convert JFlap file into a LATEX file depicting the automaton using TikZ.
