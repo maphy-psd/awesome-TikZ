@@ -51,6 +51,7 @@ Contents
 -   [chordbars](https://www.ctan.org/pkg/chordbars) - Print chord grids for pop/jazz tunes.
 -   [chordbox](https://www.ctan.org/pkg/chordbox) - Draw chord diagrams.
 -   [cpssp](https://ctan.org/pkg/cpssp) - Draw protein secondary structures.
+-   [ddphonism](https://www.ctan.org/pkg/ddphonism) - LATEX package for twelve-tone matrices, clock diagrams et al.
 -   [drawstack](https://ctan.org/pkg/drawstack) - Draw execution stacks.
 -   [duotenzor](https://ctan.org/pkg/duotenzor) - Drawing package for circuit and duotensor diagrams.
 -   [dynkin-diagrams](https://ctan.org/pkg/dynkin-diagrams) - Draw Dynkin, Coxeter, and Satake diagrams using TikZ.
