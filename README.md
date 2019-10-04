@@ -50,6 +50,7 @@ Contents
 -   [chemschemex](https://ctan.org/pkg/chemschemex) - Typeset and cross-reference chemical schemes based on TikZ code.
 -   [chordbars](https://www.ctan.org/pkg/chordbars) - Print chord grids for pop/jazz tunes.
 -   [chordbox](https://www.ctan.org/pkg/chordbox) - Draw chord diagrams.
+-   [codeanatomy](https://www.ctan.org/pkg/codeanatomy) - Typeset code with annotations.
 -   [cpssp](https://ctan.org/pkg/cpssp) - Draw protein secondary structures.
 -   [ddphonism](https://www.ctan.org/pkg/ddphonism) - LATEX package for twelve-tone matrices, clock diagrams et al.
 -   [drawstack](https://ctan.org/pkg/drawstack) - Draw execution stacks.
