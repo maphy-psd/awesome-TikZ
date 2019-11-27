@@ -47,6 +47,7 @@ Contents
 -   [celtic](http://www.ctan.org/tex-archive/graphics/pgf/contrib/celtic) - A TikZ library for drawing celtic knots.
 -   [circuitikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/circuitikz) - Draw electrical networks with TikZ.
 -   [chemfig](https://ctan.org/pkg/chemfig) - Draw molecules with easy syntax.
+-   [chemplants](https://www.ctan.org/pkg/chemplants) - Symbology to draw chemical plants with TikZ.
 -   [chemschemex](https://ctan.org/pkg/chemschemex) - Typeset and cross-reference chemical schemes based on TikZ code.
 -   [chordbars](https://www.ctan.org/pkg/chordbars) - Print chord grids for pop/jazz tunes.
 -   [chordbox](https://www.ctan.org/pkg/chordbox) - Draw chord diagrams.
@@ -77,6 +78,7 @@ Contents
 -   [karnaughmap](http://www.ctan.org/tex-archive/graphics/pgf/contrib/karnaughmap) - Typeset Karnaugh maps.
 -   [kvmap](https://www.ctan.org/pkg/kvmap) - Create Karnaugh maps with LATEX.
 -   [ladder](https://ctan.org/pkg/ladder) - Draw simple ladder diagrams using TikZ.
+-   [letterswitharrows](https://www.ctan.org/pkg/letterswitharrows) - Draw arrows over math letters.
 -   [luamesh](https://ctan.org/pkg/luamesh) - Computes and draws 2D Delaunay triangulation.
 -   [logicpuzzle](http://www.ctan.org/tex-archive/graphics/pgf/contrib/logicpuzzle) - Typeset (grid-based) logic puzzles.
 -   [makeshape](http://www.ctan.org/tex-archive/graphics/pgf/contrib/makeshape) - Declare new PGF shapes.
@@ -105,6 +107,7 @@ Contents
 -   [pgfornament](https://ctan.org/pkg/pgfornament) - Drawing of Vectorian ornaments with PGF/TikZ.
 -   [pgfplots](https://www.ctan.org/pkg/pgfplots) - Create normal/logarithmic plots in two and three dimensions
 -   [pgfplotstable](https://ctan.org/pkg/pgfplotstable) - Loads, rounds, formats and postprocesses numerical tables.
+-   [pinoutikz](https://www.ctan.org/pkg/pinoutikz) - Draw chip pinouts with TikZ.
 -   [pixelart](https://ctan.org/pkg/pixelart) - A package to draw pixel-art pictures.
 -   [productbox](https://ctan.org/pkg/productbox) - Typeset a three-dimensional product box.
 -   [progressbar](https://ctan.org/pkg/progressbar) - Visualize shares of total amounts in the form of a (progress-)bar.
@@ -156,6 +159,7 @@ Contents
 -   [tikz-relay](https://ctan.org/pkg/tikz-relay) - TikZ library for typesetting electrical diagrams.
 -   [tikz-sfc](https://ctan.org/pkg/tikz-sfc) - Symbols collection for typesetting Sequential Function Chart (SFC) diagrams (PLC programs).
 -   [tikz-timing](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-timing) - Easy generation of timing diagrams as TikZ pictures.
+-   [tikz-3dplot-circleofsphere](https://github.com/matthias-wolff/tikz-3dplot-circleofsphere) - Drawing Circles of a Sphere with tikz-3dplot.
 -   [tikzcodeblocks](https://ctan.org/pkg/tikzcodeblocks) - Helps to draw codeblocks like scratch, NEPO and PXT in TikZ.
 -   [tikzducks](https://ctan.org/pkg/tikzducks) - A little fun package for using rubber ducks in TikZ.
 -   [tikzinclude](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzinclude) - Import TikZ images from colletions.
