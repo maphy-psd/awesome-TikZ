@@ -30,6 +30,7 @@ Contents
 -   [aobs-tikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/aobs-tikz) - TikZ styles for creating overlaid pictures in beamer.
 -   [background](https://ctan.org/pkg/background) - Placement of background material on pages of a document.
 -   [battleship](http://www.ctan.org/tex-archive/graphics/pgf/contrib/battleship) - A style file for typesetting Battleship logic puzzles.
+-   [bearwear](https://www.ctan.org/pkg/bearwear) - Shirts to dress tikzbears. (from [TikZlings](https://www.ctan.org/pkg/tikzlings))
 -   [bezierplot](https://www.ctan.org/pkg/bezierplot) - bezierplot approximates smooth function graphs with cubic bezier splines in order to be used with TikZ or METAPOST. ([source](https://github.com/linusromer/bezierplot))
 -   [bchart](https://ctan.org/pkg/bchart) - Draw simple bar charts in LATEX.
 -   [bclogo](https://ctan.org/pkg/bclogo) - Creating colourful boxes with logos.
@@ -159,6 +160,7 @@ Contents
 -   [tikz-relay](https://ctan.org/pkg/tikz-relay) - TikZ library for typesetting electrical diagrams.
 -   [tikz-sfc](https://ctan.org/pkg/tikz-sfc) - Symbols collection for typesetting Sequential Function Chart (SFC) diagrams (PLC programs).
 -   [tikz-timing](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-timing) - Easy generation of timing diagrams as TikZ pictures.
+-   [tikz-trackschematic](https://www.ctan.org/pkg/tikz-trackschematic) - A TikZ library for creating track diagrams in railways.
 -   [tikz-3dplot-circleofsphere](https://github.com/matthias-wolff/tikz-3dplot-circleofsphere) - Drawing Circles of a Sphere with tikz-3dplot.
 -   [tikzcodeblocks](https://ctan.org/pkg/tikzcodeblocks) - Helps to draw codeblocks like scratch, NEPO and PXT in TikZ.
 -   [tikzducks](https://ctan.org/pkg/tikzducks) - A little fun package for using rubber ducks in TikZ.
