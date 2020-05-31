@@ -119,6 +119,7 @@ Contents
 -   [quantikz](https://www.ctan.org/pkg/quantikz) - Draw quantum circuit diagrams.
 -   [randomwalk](https://ctan.org/pkg/randomwalk) - Random walks using TikZ.
 -   [rank-2-roots](https://www.ctan.org/pkg/rank-2-roots) - Draw (mathematical) rank 2 root systems.
+-   [rest-api](https://www.ctan.org/pkg/rest-api) - Describing a rest api.
 -   [reotex](http://www.ctan.org/tex-archive/graphics/pgf/contrib/reotex) - Draw Reo Channels and Circuits.
 -   [rubikcube](https://ctan.org/pkg/rubikcube) - Typeset Rubik cubes and move notation.
 -   [rubiktwocube](https://ctan.org/pkg/rubiktwocube) - Typeset Rubik TwoCubes and move notation.
@@ -156,6 +157,7 @@ Contents
 -   [tikz-optics](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-optics) - A library for drawing optical setups with TikZ.
 -   [tikz-page](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-page) - Small macro to help building nice and complex layout materials.
 -   [tikz-palattice](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-palattice) - Draw particle accelerator lattices with TikZ.
+-   [TikZ-planets](https://www.ctan.org/pkg/tikz-planets) - Illustrate celestial mechanics and the solar system.
 -   [tikz-qtree](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-qtree) - Use existing qtree syntax for trees in TikZ.
 -   [tikz-relay](https://ctan.org/pkg/tikz-relay) - TikZ library for typesetting electrical diagrams.
 -   [tikz-sfc](https://ctan.org/pkg/tikz-sfc) - Symbols collection for typesetting Sequential Function Chart (SFC) diagrams (PLC programs).
@@ -216,6 +218,7 @@ Contents
 -   [VisualTikZ](https://www.ctan.org/pkg/visualtikz) - Visual help for TikZ based on images with minimum text.
 -   [LaTeX/PGF/TikZ](https://en.wikibooks.org/wiki/LaTeX/PGF/TikZ) - A short tutorial from wikibooks.
 -   [MinimalTikZ](http://cremeronline.com/LaTeX/minimaltikz.pdf) - A very minimal introduction to TikZ.
+-   [TEX-nutshell](https://www.ctan.org/pkg/tex-nutshell) - A short document about TEX principles.
 
 ## Gallery
 
