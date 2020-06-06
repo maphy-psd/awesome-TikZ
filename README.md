@@ -150,6 +150,7 @@ Contents
 -   [tikz-karnaugh](https://ctan.org/pkg/tikz-karnaugh) - Typeset Karnaugh maps using TikZ.
 -   [tikz-kalender](https://ctan.org/pkg/tikz-kalender) - A LATEX based calendar using TikZ.
 -   [tikz-ladder](https://ctan.org/pkg/tikz-ladder) - Draw ladder diagrams using TikZ.
+-   [tikz-lake-fig](https://www.ctan.org/pkg/tikz-lake-fig) - Schematic diagrams of lakes.
 -   [tikz-layers](https://ctan.org/pkg/tikz-layers) - TikZ provides graphical layers on TikZ: "behind", "above" and "glass".
 -   [tikz-nef](https://ctan.org/pkg/tikz-nef) - create diagrams for neural networks constructed with the methods of the Neural Engineering Framework (NEF).
 -   [tikz-network](https://www.ctan.org/pkg/tikz-network) - Draw networks with TikZ.
