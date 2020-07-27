@@ -92,6 +92,7 @@ Contents
 -   [mycv](https://ctan.org/pkg/mycv) - A list-driven CV class, allowing TikZ decorations.
 -   [neuralnetwork](http://www.ctan.org/tex-archive/graphics/pgf/contrib/neuralnetwork) - Graph-drawing for neural networks.
 -   [nicematrix](https://ctan.org/pkg/nicematrix) - Matrices with continuous dotted lines drawn with TikZ.
+-   [nimsticks](https://www.ctan.org/pkg/nimsticks) - Draws sticks for games of multi-pile Nim.
 -   [oplotsymbl](https://ctan.org/pkg/oplotsymbl) - Some symbols which are not easily available.
 -   [pas-crosswords](https://ctan.org/pkg/pas-crosswords) - Creating crossword grids, using TikZ.
 -   [pas-tableur](https://ctan.org/pkg/pas-tableur) - Create a spreadsheet layout.
@@ -173,6 +174,7 @@ Contents
 -   [TikZmarmots](https://www.ctan.org/pkg/tikzmarmots) - Drawing little marmots in TikZ.
 -   [tikzorbital](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzorbital) - Atomic and molecular orbitals using TikZ.
 -   [tikzpagenodes](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzpagenodes) - A single TikZ node for the whole page.
+-   [tikzpackets](https://www.ctan.org/pkg/tikzpackets) - Display network packets.
 -   [tikzpeople](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzpeople) - Draw people-shaped nodes in TikZ.
 -   [tikzpfeile](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzpfeile) - Draw arrows using PGF/TikZ.
 -   [tikzposter](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzposter) - Create scientific posters using TikZ.
