@@ -45,6 +45,7 @@ Contents
 -   [braids](http://www.ctan.org/tex-archive/graphics/pgf/contrib/braids) - Draw braid diagrams with PGF/TikZ.
 -   [bussproofs-extra](https://www.ctan.org/pkg/bussproofs-extra) - Extra commands for [bussproofs.sty](https://www.ctan.org/pkg/bussproofs).
 -   [callouts](https://ctan.org/pkg/callouts) - Put simple annotations and notes inside a picture.
+-   [causets](https://www.ctan.org/pkg/causets) - Draw causal set (Hasse) diagrams.
 -   [celtic](http://www.ctan.org/tex-archive/graphics/pgf/contrib/celtic) - A TikZ library for drawing celtic knots.
 -   [circuitikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/circuitikz) - Draw electrical networks with TikZ.
 -   [chemfig](https://ctan.org/pkg/chemfig) - Draw molecules with easy syntax.
@@ -131,6 +132,7 @@ Contents
 -   [scratchx](https://ctan.org/pkg/scratchx) - Include Scratch programs in LATEX documents.
 -   [scratch3](https://www.ctan.org/pkg/scratch3) - Draw programs like "scratch".
 -   [scsnowman](http://www.ctan.org/tex-archive/graphics/pgf/contrib/scsnowman) - Snowman variants using TikZ.
+-   [semesterplanner](https://www.ctan.org/pkg/semesterplanner) - Create beautiful semester timetables and more.
 -   [setdeck](http://www.ctan.org/tex-archive/graphics/pgf/contrib/setdeck) - Typeset cards for Set.
 -   [smartdiagram](http://www.ctan.org/tex-archive/graphics/pgf/contrib/smartdiagram) - Generate diagrams from lists.
 -   [spectralsequences](https://ctan.org/pkg/spectralsequences) - Print spectral sequence diagrams using PGF/TikZ.
@@ -140,6 +142,7 @@ Contents
 -   [tablvar](https://www.ctan.org/pkg/tablvar) - Typesetting pretty tables of signs and variations according to French usage.
 -   [ticollege](http://www.ctan.org/tex-archive/graphics/pgf/contrib/ticollege) - Graphical representation of keys on a standard scientific calculator.
 -   [tikz-3dplot](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-3dplot) - Coordinate transformation styles for 3d plotting in TikZ.
+-   [tikz-among-us](https://www.ctan.org/pkg/tikz-among-us) - Create some AmongUs characters in TikZ environments.
 -   [tikz-bayesnet](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-bayesnet) - Draw Bayesian networks, graphical models and directed factor graphs.
 -   [tikz-cd](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-cd) - Create commutative diagrams with TikZ.
 -   [tikz-dependency](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-dependency) - A library for drawing dependency graphs.
