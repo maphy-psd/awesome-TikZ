@@ -112,6 +112,7 @@ Contents
 -   [pgfplotstable](https://ctan.org/pkg/pgfplotstable) - Loads, rounds, formats and postprocesses numerical tables.
 -   [pinoutikz](https://www.ctan.org/pkg/pinoutikz) - Draw chip pinouts with TikZ.
 -   [pixelart](https://ctan.org/pkg/pixelart) - A package to draw pixel-art pictures.
+-   [PuyoTikZ](https://www.ctan.org/pkg/puyotikz) - Quickly typeset board states of Puyo Puyo games.
 -   [productbox](https://ctan.org/pkg/productbox) - Typeset a three-dimensional product box.
 -   [progressbar](https://ctan.org/pkg/progressbar) - Visualize shares of total amounts in the form of a (progress-)bar.
 -   [prooftrees](http://www.ctan.org/tex-archive/graphics/pgf/contrib/prooftrees) - Forest-based proof trees (symbolic logic).
