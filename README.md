@@ -66,6 +66,7 @@ Contents
 -   [genealogytree](https://ctan.org/pkg/genealogytree) - Pedigree and genealogical tree diagrams.
 -   [grafcet](http://www.ctan.org/tex-archive/graphics/pgf/contrib/grafcet) - Draw Grafcet/SFC with TikZ.
 -   [graph35](https://www.ctan.org/pkg/graph35) - Draw keys and screen items of several Casio calculators.
+-   [gridpapers](https://www.ctan.org/pkg/gridpapers) - Graph paper backgrounds and color schemes.
 -   [guitarchordschemes](https://ctan.org/pkg/guitarchordschemes) - Guitar Chord and Scale Tablatures.
 -   [guitartabs](https://www.ctan.org/pkg/guitartabs) - A class for drawing guitar tablatures easily.
 -   [harveyballs](http://www.ctan.org/tx-archive/graphics/pgf/contrib/harveyballs) - Create Harvey Balls using TikZ.
@@ -94,6 +95,7 @@ Contents
 -   [neuralnetwork](http://www.ctan.org/tex-archive/graphics/pgf/contrib/neuralnetwork) - Graph-drawing for neural networks.
 -   [nicematrix](https://ctan.org/pkg/nicematrix) - Matrices with continuous dotted lines drawn with TikZ.
 -   [nimsticks](https://www.ctan.org/pkg/nimsticks) - Draws sticks for games of multi-pile Nim.
+-   [nl-interval](https://www.ctan.org/pkg/nl-interval) - Represent intervals on the number line.
 -   [oplotsymbl](https://ctan.org/pkg/oplotsymbl) - Some symbols which are not easily available.
 -   [pas-crosswords](https://ctan.org/pkg/pas-crosswords) - Creating crossword grids, using TikZ.
 -   [pas-tableur](https://ctan.org/pkg/pas-tableur) - Create a spreadsheet layout.
@@ -198,6 +200,7 @@ Contents
 -   [tkz-orm](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tkz-orm) - Create Object-Role Model (ORM) diagrams.
 -   [tsemlines](https://ctan.org/pkg/tsemlines) - Support for the ancient \emline macro.
 -   [tqft](https://ctan.org/pkg/tqft) - Drawing TQFT diagrams with TikZ/PGF.
+-   [tzplot](https://www.ctan.org/pkg/tzplot) - Plot graphs with TikZ abbreviations.
 -   [venndiagram](https://ctan.org/pkg/venndiagram) - Creating Venn diagrams with TikZ.
 -   [witharrows](https://ctan.org/pkg/witharrows) - "Aligned" math environments with arrows for comments.
 -   [xebaposter](http://www.ctan.org/tex-archive/graphics/pgf/contrib/xebaposter) - Create beautiful scientific Persian/Latin posters using TikZ.
