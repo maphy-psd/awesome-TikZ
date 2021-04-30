@@ -44,6 +44,7 @@ Contents
 -   [bondgraphs](https://ctan.org/pkg/bondgraphs) - Draws bond graphs in LATEX, using PGF/TikZ.
 -   [braids](http://www.ctan.org/tex-archive/graphics/pgf/contrib/braids) - Draw braid diagrams with PGF/TikZ.
 -   [bussproofs-extra](https://www.ctan.org/pkg/bussproofs-extra) - Extra commands for [bussproofs.sty](https://www.ctan.org/pkg/bussproofs).
+-   [byo-twemojis](https://www.ctan.org/pkg/byo-twemojis) - “Build Your Own Twemojis” with TikZ.
 -   [callouts](https://ctan.org/pkg/callouts) - Put simple annotations and notes inside a picture.
 -   [causets](https://www.ctan.org/pkg/causets) - Draw causal set (Hasse) diagrams.
 -   [celtic](http://www.ctan.org/tex-archive/graphics/pgf/contrib/celtic) - A TikZ library for drawing celtic knots.
@@ -203,6 +204,7 @@ Contents
 -   [tzplot](https://www.ctan.org/pkg/tzplot) - Plot graphs with TikZ abbreviations.
 -   [venndiagram](https://ctan.org/pkg/venndiagram) - Creating Venn diagrams with TikZ.
 -   [witharrows](https://ctan.org/pkg/witharrows) - "Aligned" math environments with arrows for comments.
+-   [worldflags](https://www.ctan.org/pkg/worldflags) - Drawing flags with TikZ.
 -   [xebaposter](http://www.ctan.org/tex-archive/graphics/pgf/contrib/xebaposter) - Create beautiful scientific Persian/Latin posters using TikZ.
 
 ## Libraries
