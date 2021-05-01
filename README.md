@@ -201,6 +201,7 @@ Contents
 -   [tkz-orm](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tkz-orm) - Create Object-Role Model (ORM) diagrams.
 -   [tsemlines](https://ctan.org/pkg/tsemlines) - Support for the ancient \emline macro.
 -   [tqft](https://ctan.org/pkg/tqft) - Drawing TQFT diagrams with TikZ/PGF.
+-   [twemojis](https://www.ctan.org/pkg/twemojis) - Use Twitter’s open source emojis through LaTeX commands.
 -   [tzplot](https://www.ctan.org/pkg/tzplot) - Plot graphs with TikZ abbreviations.
 -   [venndiagram](https://ctan.org/pkg/venndiagram) - Creating Venn diagrams with TikZ.
 -   [witharrows](https://ctan.org/pkg/witharrows) - "Aligned" math environments with arrows for comments.
