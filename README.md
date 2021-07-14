@@ -172,6 +172,7 @@ Contents
 -   [tikz-qtree](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-qtree) - Use existing qtree syntax for trees in TikZ.
 -   [tikz-relay](https://ctan.org/pkg/tikz-relay) - TikZ library for typesetting electrical diagrams.
 -   [tikz-sfc](https://ctan.org/pkg/tikz-sfc) - Symbols collection for typesetting Sequential Function Chart (SFC) diagrams (PLC programs).
+-   [tikz-swigs](https://www.ctan.org/pkg/tikz-swigs) - Horizontally and vertically split elliptical nodes.
 -   [tikz-timing](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-timing) - Easy generation of timing diagrams as TikZ pictures.
 -   [tikz-trackschematic](https://www.ctan.org/pkg/tikz-trackschematic) - A TikZ library for creating track diagrams in railways.
 -   [tikz-3dplot-circleofsphere](https://github.com/matthias-wolff/tikz-3dplot-circleofsphere) - Drawing Circles of a Sphere with tikz-3dplot.
