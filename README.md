@@ -46,6 +46,7 @@ Contents
 -   [bussproofs-extra](https://www.ctan.org/pkg/bussproofs-extra) - Extra commands for [bussproofs.sty](https://www.ctan.org/pkg/bussproofs).
 -   [byo-twemojis](https://www.ctan.org/pkg/byo-twemojis) - “Build Your Own Twemojis” with TikZ.
 -   [callouts](https://ctan.org/pkg/callouts) - Put simple annotations and notes inside a picture.
+-   [cartonaugh](https://www.ctan.org/pkg/cartonaugh) - A LuaLATEX package for drawing karnaugh maps with up to 6 variables.
 -   [causets](https://www.ctan.org/pkg/causets) - Draw causal set (Hasse) diagrams.
 -   [celtic](http://www.ctan.org/tex-archive/graphics/pgf/contrib/celtic) - A TikZ library for drawing celtic knots.
 -   [circuitikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/circuitikz) - Draw electrical networks with TikZ.
@@ -60,6 +61,7 @@ Contents
 -   [drawstack](https://ctan.org/pkg/drawstack) - Draw execution stacks.
 -   [duotenzor](https://ctan.org/pkg/duotenzor) - Drawing package for circuit and duotensor diagrams.
 -   [dynkin-diagrams](https://ctan.org/pkg/dynkin-diagrams) - Draw Dynkin, Coxeter, and Satake diagrams using TikZ.
+-   [easing](https://www.ctan.org/pkg/easing) - easing functions for pgfmath.
 -   [fancytabs](https://ctan.org/pkg/fancytabs) - Fancy page border tabs.
 -   [fast-diagram](http://www.ctan.org/tex-archive/graphics/pgf/contrib/fast-diagram) - Easy generation of FAST diagrams.
 -   [flowchart](http://www.ctan.org/tex-archive/graphics/pgf/contrib/flowchart) - Shapes for drawing flowcharts, using TikZ.
@@ -101,6 +103,7 @@ Contents
 -   [pas-crosswords](https://ctan.org/pkg/pas-crosswords) - Creating crossword grids, using TikZ.
 -   [pas-tableur](https://ctan.org/pkg/pas-tableur) - Create a spreadsheet layout.
 -   [pdfreview](https://ctan.org/pkg/pdfreview) - Annotate PDF files with margin notes.
+-   [pfdicons](https://www.ctan.org/pkg/pfdicons) - Draw process flow diagrams in chemical engineering.
 -   [penrose](https://www.ctan.org/pkg/penrose) - A TikZ library for producing Penrose tilings.
 -   [pgf-blur](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-blur) - PGF/TikZ package for "blurred" shadows.
 -   [pgf-cmykshadings](https://www.ctan.org/pkg/pgf-cmykshadings) - Support for CMYK and grayscale shadings in PGF/TikZ.
@@ -201,11 +204,13 @@ Contents
 -   [tkz-tab](https://www.ctan.org/pkg/tkz-tab) - Tables of signs and variations using PGF/TikZ.
 -   [tkz-euclide](https://www.ctan.org/pkg/tkz-euclide) - Tools for drawing Euclidean geometry.
 -   [tkz-orm](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tkz-orm) - Create Object-Role Model (ORM) diagrams.
+-   [toneval](https://www.ctan.org/pkg/tonevalue) - Tool for linguists and phoneticians to visualize tone value patterns.
 -   [tsemlines](https://ctan.org/pkg/tsemlines) - Support for the ancient \emline macro.
 -   [tqft](https://ctan.org/pkg/tqft) - Drawing TQFT diagrams with TikZ/PGF.
 -   [twemojis](https://www.ctan.org/pkg/twemojis) - Use Twitter’s open source emojis through LaTeX commands.
 -   [tzplot](https://www.ctan.org/pkg/tzplot) - Plot graphs with TikZ abbreviations.
 -   [venndiagram](https://ctan.org/pkg/venndiagram) - Creating Venn diagrams with TikZ.
+-   [xistercian](https://www.ctan.org/pkg/xistercian) - Cistercian numerals in LATEX.
 -   [witharrows](https://ctan.org/pkg/witharrows) - "Aligned" math environments with arrows for comments.
 -   [worldflags](https://www.ctan.org/pkg/worldflags) - Drawing flags with TikZ.
 -   [xebaposter](http://www.ctan.org/tex-archive/graphics/pgf/contrib/xebaposter) - Create beautiful scientific Persian/Latin posters using TikZ.
@@ -254,6 +259,7 @@ Contents
 -   [gratex](https://sourceforge.net/projects/gratex/) - Visual graph creator for LaTeX (PGF & TikZ).
 -   [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz) - Converts MATLAB®/Octave figures to TikZ/pgfplots figures.
 -   [matplotlib2tikz](https://github.com/nschloe/matplotlib2tikz) - Convert matplotlib figure and spits out a TikZ/PGFplots figure.
+-   [tikztosvg](https://www.ctan.org/pkg/tikztosvg) - A utility for rendering TikZ diagrams to SVG.
 
 ## Community
 
