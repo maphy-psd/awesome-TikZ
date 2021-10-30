@@ -152,6 +152,7 @@ Contents
 -   [tikz-3dplot](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-3dplot) - Coordinate transformation styles for 3d plotting in TikZ.
 -   [tikz-among-us](https://www.ctan.org/pkg/tikz-among-us) - Create some AmongUs characters in TikZ environments.
 -   [tikz-bayesnet](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-bayesnet) - Draw Bayesian networks, graphical models and directed factor graphs.
+-   [TikZ-Bagua](https://www.ctan.org/pkg/tikz-bagua) - Draw Bagua symbols in Yijing.
 -   [tikz-bbox](https://www.ctan.org/pkg/tikz-bbox) - Precise determination of bounding boxes in TikZ.
 -   [tikz-cd](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-cd) - Create commutative diagrams with TikZ.
 -   [tikz-dependency](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-dependency) - A library for drawing dependency graphs.
@@ -214,6 +215,7 @@ Contents
 -   [witharrows](https://ctan.org/pkg/witharrows) - "Aligned" math environments with arrows for comments.
 -   [worldflags](https://www.ctan.org/pkg/worldflags) - Drawing flags with TikZ.
 -   [xebaposter](http://www.ctan.org/tex-archive/graphics/pgf/contrib/xebaposter) - Create beautiful scientific Persian/Latin posters using TikZ.
+-   [zx-calculus](https://www.ctan.org/pkg/zx-calculus) - A library to typeset ZX Calculus diagrams.
 
 ## Libraries
 -   [List of available TikZ libraries with a short introduction](https://tex.stackexchange.com/q/42611/41901)
