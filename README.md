@@ -56,6 +56,7 @@ Contents
 -   [chordbars](https://www.ctan.org/pkg/chordbars) - Print chord grids for pop/jazz tunes.
 -   [chordbox](https://www.ctan.org/pkg/chordbox) - Draw chord diagrams.
 -   [codeanatomy](https://www.ctan.org/pkg/codeanatomy) - Typeset code with annotations.
+-   [codebox](https://www.ctan.org/pkg/codebox) - Highlighted source code in a fancy box.
 -   [cpssp](https://ctan.org/pkg/cpssp) - Draw protein secondary structures.
 -   [ddphonism](https://www.ctan.org/pkg/ddphonism) - LATEX package for twelve-tone matrices, clock diagrams et al.
 -   [drawstack](https://ctan.org/pkg/drawstack) - Draw execution stacks.
@@ -82,6 +83,7 @@ Contents
 -   [jigsaw](https://www.ctan.org/pkg/jigsaw) - Draw jigsaw pieces with TikZ.
 -   [karnaugh-map](http://www.ctan.org/tex-archive/graphics/pgf/contrib/karnaugh-map) - LATEX package for drawing karnaugh maps with up to 6 variables.
 -   [karnaughmap](http://www.ctan.org/tex-archive/graphics/pgf/contrib/karnaughmap) - Typeset Karnaugh maps.
+-   [kinematikz](https://www.ctan.org/pkg/kinematikz) - Design kinematic chains and mechanisms.
 -   [kvmap](https://www.ctan.org/pkg/kvmap) - Create Karnaugh maps with LATEX.
 -   [ladder](https://ctan.org/pkg/ladder) - Draw simple ladder diagrams using TikZ.
 -   [letterswitharrows](https://www.ctan.org/pkg/letterswitharrows) - Draw arrows over math letters.
@@ -148,6 +150,7 @@ Contents
 -   [strands](https://www.ctan.org/pkg/strands) - Draw objects constructed from strands.
 -   [structmech](https://www.ctan.org/pkg/structmech) - A TikZ command set for structural mechanics drawings.
 -   [tablvar](https://www.ctan.org/pkg/tablvar) - Typesetting pretty tables of signs and variations according to French usage.
+-   [termsim](https://www.ctan.org/pkg/termsim) - Simulate Win10, Ubuntu, and Mac terminals.
 -   [ticollege](http://www.ctan.org/tex-archive/graphics/pgf/contrib/ticollege) - Graphical representation of keys on a standard scientific calculator.
 -   [tikz-3dplot](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-3dplot) - Coordinate transformation styles for 3d plotting in TikZ.
 -   [tikz-among-us](https://www.ctan.org/pkg/tikz-among-us) - Create some AmongUs characters in TikZ environments.
