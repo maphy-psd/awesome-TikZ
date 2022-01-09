@@ -102,6 +102,7 @@ Contents
 -   [nimsticks](https://www.ctan.org/pkg/nimsticks) - Draws sticks for games of multi-pile Nim.
 -   [nl-interval](https://www.ctan.org/pkg/nl-interval) - Represent intervals on the number line.
 -   [oplotsymbl](https://ctan.org/pkg/oplotsymbl) - Some symbols which are not easily available.
+-   [pascaltriangle](https://www.ctan.org/pkg/pascaltriangle) - Draw beautiful Pascal (Yanghui) triangles.
 -   [pas-crosswords](https://ctan.org/pkg/pas-crosswords) - Creating crossword grids, using TikZ.
 -   [pas-tableur](https://ctan.org/pkg/pas-tableur) - Create a spreadsheet layout.
 -   [pdfreview](https://ctan.org/pkg/pdfreview) - Annotate PDF files with margin notes.
