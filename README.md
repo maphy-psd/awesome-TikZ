@@ -42,6 +42,7 @@ Contents
 -   [bohr](https://ctan.org/pkg/bohr) - Simple atom representation according to the Bohr model.
 -   [bondgraph](https://ctan.org/pkg/bondgraph) - Create bond graph figures in LATEX documents.
 -   [bondgraphs](https://ctan.org/pkg/bondgraphs) - Draws bond graphs in LATEX, using PGF/TikZ.
+-   [bodeplot](https://www.ctan.org/pkg/bodeplot) - Draw Bode, Nyquist and Nichols plots with gnuplot or pgfplots.
 -   [braids](http://www.ctan.org/tex-archive/graphics/pgf/contrib/braids) - Draw braid diagrams with PGF/TikZ.
 -   [bussproofs-extra](https://www.ctan.org/pkg/bussproofs-extra) - Extra commands for [bussproofs.sty](https://www.ctan.org/pkg/bussproofs).
 -   [byo-twemojis](https://www.ctan.org/pkg/byo-twemojis) - “Build Your Own Twemojis” with TikZ.
