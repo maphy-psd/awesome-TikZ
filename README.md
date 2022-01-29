@@ -64,6 +64,7 @@ Contents
 -   [duotenzor](https://ctan.org/pkg/duotenzor) - Drawing package for circuit and duotensor diagrams.
 -   [dynkin-diagrams](https://ctan.org/pkg/dynkin-diagrams) - Draw Dynkin, Coxeter, and Satake diagrams using TikZ.
 -   [easing](https://www.ctan.org/pkg/easing) - easing functions for pgfmath.
+-   [endiagram](https://www.ctan.org/pkg/endiagram) - Easy creation of potential energy curve diagrams.
 -   [fancytabs](https://ctan.org/pkg/fancytabs) - Fancy page border tabs.
 -   [fast-diagram](http://www.ctan.org/tex-archive/graphics/pgf/contrib/fast-diagram) - Easy generation of FAST diagrams.
 -   [flowchart](http://www.ctan.org/tex-archive/graphics/pgf/contrib/flowchart) - Shapes for drawing flowcharts, using TikZ.
