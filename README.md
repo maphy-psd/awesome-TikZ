@@ -136,6 +136,7 @@ Contents
 -   [rank-2-roots](https://www.ctan.org/pkg/rank-2-roots) - Draw (mathematical) rank 2 root systems.
 -   [rest-api](https://www.ctan.org/pkg/rest-api) - Describing a rest api.
 -   [reotex](http://www.ctan.org/tex-archive/graphics/pgf/contrib/reotex) - Draw Reo Channels and Circuits.
+-   [robotarm](https://www.ctan.org/pkg/robotarm) -TikZ powered LATEX package to draw parameterized 2D robot arms.
 -   [rubikcube](https://ctan.org/pkg/rubikcube) - Typeset Rubik cubes and move notation.
 -   [rubiktwocube](https://ctan.org/pkg/rubiktwocube) - Typeset Rubik TwoCubes and move notation.
 -   [rulercompass](http://www.ctan.org/tex-archive/graphics/pgf/contrib/rulercompass) - A TikZ library for straight-edge and compass diagrams.
