@@ -89,9 +89,11 @@ Contents
 -   [kvmap](https://www.ctan.org/pkg/kvmap) - Create Karnaugh maps with LATEX.
 -   [ladder](https://ctan.org/pkg/ladder) - Draw simple ladder diagrams using TikZ.
 -   [letterswitharrows](https://www.ctan.org/pkg/letterswitharrows) - Draw arrows over math letters.
+-   [liftarm](https://www.ctan.org/pkg/liftarm) - Draw liftarms.
 -   [luamesh](https://ctan.org/pkg/luamesh) - Computes and draws 2D Delaunay triangulation.
 -   [logicpuzzle](http://www.ctan.org/tex-archive/graphics/pgf/contrib/logicpuzzle) - Typeset (grid-based) logic puzzles.
 -   [makeshape](http://www.ctan.org/tex-archive/graphics/pgf/contrib/makeshape) - Declare new PGF shapes.
+-   [messagepassing](https://www.ctan.org/pkg/messagepassing) - Draw diagrams to represent communication protocols.
 -   [memorygraphs](https://www.ctan.org/pkg/memorygraphs) - TikZ styles to typeset graphs of program memory.
 -   [mdframed](https://ctan.org/pkg/mdframed) - Framed environments that can split at page boundaries.
 -   [metrix](https://ctan.org/pkg/metrix) - Typeset metric marks for Latin text.
