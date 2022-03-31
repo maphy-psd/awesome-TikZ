@@ -27,6 +27,7 @@ Contents
 ## Packages
 -   [adigraph](https://ctan.org/pkg/adigraph) - Augmenting directed graphs.
 -   [algobox](https://ctan.org/pkg/algobox) - Typeset Algobox programs.
+-   [annotate-equations](https://www.ctan.org/pkg/annotate-equations) - Easily annotate math equations using TikZ.
 -   [aobs-tikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/aobs-tikz) - TikZ styles for creating overlaid pictures in beamer.
 -   [background](https://ctan.org/pkg/background) - Placement of background material on pages of a document.
 -   [battleship](http://www.ctan.org/tex-archive/graphics/pgf/contrib/battleship) - A style file for typesetting Battleship logic puzzles.
