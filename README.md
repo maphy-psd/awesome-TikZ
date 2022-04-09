@@ -151,6 +151,7 @@ Contents
 -   [scsnowman](http://www.ctan.org/tex-archive/graphics/pgf/contrib/scsnowman) - Snowman variants using TikZ.
 -   [semesterplanner](https://www.ctan.org/pkg/semesterplanner) - Create beautiful semester timetables and more.
 -   [setdeck](http://www.ctan.org/tex-archive/graphics/pgf/contrib/setdeck) - Typeset cards for Set.
+-   [simplenodes](https://www.ctan.org/pkg/simplenodes) - Simple nodes in four colors written in TikZ for LATEX.
 -   [smartdiagram](http://www.ctan.org/tex-archive/graphics/pgf/contrib/smartdiagram) - Generate diagrams from lists.
 -   [spectralsequences](https://ctan.org/pkg/spectralsequences) - Print spectral sequence diagrams using PGF/TikZ.
 -   [spath3](http://www.ctan.org/tex-archive/graphics/pgf/contrib/spath3) - Manipulate “soft paths” in PGF.
