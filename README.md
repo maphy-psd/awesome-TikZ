@@ -111,8 +111,8 @@ Contents
 -   [pas-crosswords](https://ctan.org/pkg/pas-crosswords) - Creating crossword grids, using TikZ.
 -   [pas-tableur](https://ctan.org/pkg/pas-tableur) - Create a spreadsheet layout.
 -   [pdfreview](https://ctan.org/pkg/pdfreview) - Annotate PDF files with margin notes.
--   [pfdicons](https://www.ctan.org/pkg/pfdicons) - Draw process flow diagrams in chemical engineering.
 -   [penrose](https://www.ctan.org/pkg/penrose) - A TikZ library for producing Penrose tilings.
+-   [pfdicons](https://www.ctan.org/pkg/pfdicons) - Draw process flow diagrams in chemical engineering.
 -   [pgf-blur](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-blur) - PGF/TikZ package for "blurred" shadows.
 -   [pgf-cmykshadings](https://www.ctan.org/pkg/pgf-cmykshadings) - Support for CMYK and grayscale shadings in PGF/TikZ.
 -   [pgf-interference](https://www.ctan.org/pkg/pgf-interference) - Drawing interference patterns with PGF/TikZ.
@@ -129,6 +129,7 @@ Contents
 -   [pixelart](https://ctan.org/pkg/pixelart) - A package to draw pixel-art pictures.
 -   [PuyoTikZ](https://www.ctan.org/pkg/puyotikz) - Quickly typeset board states of Puyo Puyo games.
 -   [productbox](https://ctan.org/pkg/productbox) - Typeset a three-dimensional product box.
+-   [proflabo](https://www.ctan.org/pkg/proflabo) - Draw laboratory equipment.
 -   [progressbar](https://ctan.org/pkg/progressbar) - Visualize shares of total amounts in the form of a (progress-)bar.
 -   [prooftrees](http://www.ctan.org/tex-archive/graphics/pgf/contrib/prooftrees) - Forest-based proof trees (symbolic logic).
 -   [pstring](https://ctan.org/pkg/pstring) - Typeset sequences with justification pointers.
