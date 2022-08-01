@@ -193,8 +193,10 @@ Contents
 -   [tikz-timing](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-timing) - Easy generation of timing diagrams as TikZ pictures.
 -   [tikz-trackschematic](https://www.ctan.org/pkg/tikz-trackschematic) - A TikZ library for creating track diagrams in railways.
 -   [tikz-3dplot-circleofsphere](https://github.com/matthias-wolff/tikz-3dplot-circleofsphere) - Drawing Circles of a Sphere with tikz-3dplot.
+-   [TikZbricks](https://www.ctan.org/pkg/tikzbricks) - Drawing bricks with TikZ.
 -   [tikzcodeblocks](https://ctan.org/pkg/tikzcodeblocks) - Helps to draw codeblocks like scratch, NEPO and PXT in TikZ.
 -   [tikzducks](https://ctan.org/pkg/tikzducks) - A little fun package for using rubber ducks in TikZ.
+-   [tikzfill](https://www.ctan.org/pkg/tikzfill) - TikZ libraries for filling with images and patterns.
 -   [tikzinclude](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzinclude) - Import TikZ images from colletions.
 -   [TikZlings](https://www.ctan.org/pkg/tikzlings) - A collection of cute little animals and similar creatures.
 -   [tikzmark](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzmark) - Use TikZ's method of remembering a position on a page.
