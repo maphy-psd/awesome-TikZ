@@ -60,6 +60,7 @@ Contents
 -   [codeanatomy](https://www.ctan.org/pkg/codeanatomy) - Typeset code with annotations.
 -   [codebox](https://www.ctan.org/pkg/codebox) - Highlighted source code in a fancy box.
 -   [cpssp](https://ctan.org/pkg/cpssp) - Draw protein secondary structures.
+-   [customdice](https://www.ctan.org/pkg/customdice) - Simple commands for drawing customisable dice.
 -   [ddphonism](https://www.ctan.org/pkg/ddphonism) - LATEX package for twelve-tone matrices, clock diagrams et al.
 -   [drawstack](https://ctan.org/pkg/drawstack) - Draw execution stacks.
 -   [duotenzor](https://ctan.org/pkg/duotenzor) - Drawing package for circuit and duotensor diagrams.
