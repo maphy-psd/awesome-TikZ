@@ -68,6 +68,7 @@ Contents
 -   [easing](https://www.ctan.org/pkg/easing) - easing functions for pgfmath.
 -   [endiagram](https://www.ctan.org/pkg/endiagram) - Easy creation of potential energy curve diagrams.
 -   [fancytabs](https://ctan.org/pkg/fancytabs) - Fancy page border tabs.
+-   [fancyqr](https://www.ctan.org/pkg/fancyqr) - Fancy QR-Codes with TikZ.
 -   [fast-diagram](http://www.ctan.org/tex-archive/graphics/pgf/contrib/fast-diagram) - Easy generation of FAST diagrams.
 -   [flowchart](http://www.ctan.org/tex-archive/graphics/pgf/contrib/flowchart) - Shapes for drawing flowcharts, using TikZ.
 -   [forest](http://www.ctan.org/tex-archive/graphics/pgf/contrib/forest) - Drawing (linguistic) trees ([forest-quickstart](https://ctan.org/pkg/forest-quickstart)).
@@ -171,6 +172,7 @@ Contents
 -   [tikz-cd](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-cd) - Create commutative diagrams with TikZ.
 -   [tikz-dependency](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-dependency) - A library for drawing dependency graphs.
 -   [tikz-dimline](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-dimline) - Technical dimension lines using PGF/TikZ.
+-   [tikz-ext](https://www.ctan.org/pkg/tikz-ext) - A collection of libraries for PGF/TikZ.
 -   [tikz-feynman](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-feynman) - Feynman diagrams with TikZ.
 -   [tikz-feynhand](https://ctan.org/pkg/tikz-feynhand) - Feynman diagrams with TikZ.
 -   [tikz-imagelabels](https://www.ctan.org/pkg/tikz-imagelabels) - Put labels on images using TikZ.
@@ -281,7 +283,7 @@ Contents
 
 ## Community
 
--   [StackExchange](https://tex.stackexchange.com/questions/tagged/tikz-pgf)
+-   [StackExchange](https://tex.stackexchange.com/questions/tagged/tikz-pgf) - see the [tikz-ext](https://www.ctan.org/pkg/tikz-ext) package!
 -   [texwelt.de](https://texwelt.de/wissen/themen/tikz/) - german forum for TeX topics
 -   [pgf-users](https://sourceforge.net/p/pgf/mailman/pgf-users/) - A friendly and relatively active mailing list.
 
