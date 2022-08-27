@@ -105,7 +105,7 @@ Contents
 -   [moderntimeline](https://ctan.org/pkg/moderntimeline) - Timelines for use with moderncv.
 -   [mycv](https://ctan.org/pkg/mycv) - A list-driven CV class, allowing TikZ decorations.
 -   [neuralnetwork](http://www.ctan.org/tex-archive/graphics/pgf/contrib/neuralnetwork) - Graph-drawing for neural networks.
--   [nicematrix](https://ctan.org/pkg/nicematrix) - Matrices with continuous dotted lines drawn with TikZ.
+-   [nicematrix](https://ctan.org/pkg/nicematrix) - Improve the typesetting of mathematical matrices with PGF.
 -   [nimsticks](https://www.ctan.org/pkg/nimsticks) - Draws sticks for games of multi-pile Nim.
 -   [nl-interval](https://www.ctan.org/pkg/nl-interval) - Represent intervals on the number line.
 -   [oplotsymbl](https://ctan.org/pkg/oplotsymbl) - Some symbols which are not easily available.
@@ -209,6 +209,7 @@ Contents
 -   [tikzpackets](https://www.ctan.org/pkg/tikzpackets) - Display network packets.
 -   [tikzpeople](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzpeople) - Draw people-shaped nodes in TikZ.
 -   [tikzpfeile](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzpfeile) - Draw arrows using PGF/TikZ.
+-   [Tikzpingus](https://www.ctan.org/pkg/tikzpingus) - Penguins with TikZ.
 -   [tikzposter](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzposter) - Create scientific posters using TikZ.
 -   [tikzscale](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzscale) - Resize pictures while respecting text size.
 -   [tikzsymbols](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzsymbols) - Some symbols created using TikZ. ([source](https://github.com/Vidabe/tikzsymbols))
