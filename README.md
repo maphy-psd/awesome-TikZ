@@ -230,10 +230,11 @@ Contents
 -   [twemojis](https://www.ctan.org/pkg/twemojis) - Use Twitter’s open source emojis through LaTeX commands.
 -   [tzplot](https://www.ctan.org/pkg/tzplot) - Plot graphs with TikZ abbreviations.
 -   [venndiagram](https://ctan.org/pkg/venndiagram) - Creating Venn diagrams with TikZ.
--   [xistercian](https://www.ctan.org/pkg/xistercian) - Cistercian numerals in LATEX.
+-   [wheelchart](https://www.ctan.org/pkg/wheelchart) - Draw wheelcharts with TikZ.
 -   [witharrows](https://ctan.org/pkg/witharrows) - "Aligned" math environments with arrows for comments.
 -   [worldflags](https://www.ctan.org/pkg/worldflags) - Drawing flags with TikZ.
 -   [xebaposter](http://www.ctan.org/tex-archive/graphics/pgf/contrib/xebaposter) - Create beautiful scientific Persian/Latin posters using TikZ.
+-   [xistercian](https://www.ctan.org/pkg/xistercian) - Cistercian numerals in LATEX.
 -   [zx-calculus](https://www.ctan.org/pkg/zx-calculus) - A library to typeset ZX Calculus diagrams.
 
 ## Libraries
