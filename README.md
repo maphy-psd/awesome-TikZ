@@ -59,6 +59,7 @@ Contents
 -   [chordbox](https://www.ctan.org/pkg/chordbox) - Draw chord diagrams.
 -   [codeanatomy](https://www.ctan.org/pkg/codeanatomy) - Typeset code with annotations.
 -   [codebox](https://www.ctan.org/pkg/codebox) - Highlighted source code in a fancy box.
+-   [colorframed](https://www.ctan.org/pkg/colorframed) - Fix color problems with the package “framed”.
 -   [cpssp](https://ctan.org/pkg/cpssp) - Draw protein secondary structures.
 -   [customdice](https://www.ctan.org/pkg/customdice) - Simple commands for drawing customisable dice.
 -   [ddphonism](https://www.ctan.org/pkg/ddphonism) - LATEX package for twelve-tone matrices, clock diagrams et al.
@@ -230,6 +231,7 @@ Contents
 -   [twemojis](https://www.ctan.org/pkg/twemojis) - Use Twitter’s open source emojis through LaTeX commands.
 -   [tzplot](https://www.ctan.org/pkg/tzplot) - Plot graphs with TikZ abbreviations.
 -   [venndiagram](https://ctan.org/pkg/venndiagram) - Creating Venn diagrams with TikZ.
+-   [wargame](https://www.ctan.org/pkg/wargame) - A LATEX package to prepare hex'n'counter wargames.
 -   [wheelchart](https://www.ctan.org/pkg/wheelchart) - Draw wheelcharts with TikZ.
 -   [witharrows](https://ctan.org/pkg/witharrows) - "Aligned" math environments with arrows for comments.
 -   [worldflags](https://www.ctan.org/pkg/worldflags) - Drawing flags with TikZ.
