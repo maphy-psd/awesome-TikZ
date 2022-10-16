@@ -119,6 +119,7 @@ Contents
 -   [pgf-blur](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-blur) - PGF/TikZ package for "blurred" shadows.
 -   [pgf-cmykshadings](https://www.ctan.org/pkg/pgf-cmykshadings) - Support for CMYK and grayscale shadings in PGF/TikZ.
 -   [pgf-interference](https://www.ctan.org/pkg/pgf-interference) - Drawing interference patterns with PGF/TikZ.
+-   [pgf-PeriodicTable](https://www.ctan.org/pkg/pgf-periodictable) - Create custom periodic tables of elements.
 -   [pgf-pie](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-pie) - Draw pie charts, using PGF.
 -   [pgf-soroban](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-soroban) - Create images of the soroban using TikZ/PGF.
 -   [pgf-spectra](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-spectra) - Draw continuous or discrete spectra using PGF/TikZ.
