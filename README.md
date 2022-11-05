@@ -85,6 +85,7 @@ Contents
 -   [hmtrump](https://www.ctan.org/pkg/hmtrump) - Describe card games.
 -   [hobby](http://www.ctan.org/tex-archive/graphics/pgf/contrib/hobby) - An implementation of Hobby’s algorithm for PGF/TikZ.
 -   [istgame](https://ctan.org/pkg/istgame) - Drawing Game Trees with TikZ.
+-   [JeuxCartes](https://www.ctan.org/pkg/jeuxcartes) - Macros to insert playing cards.
 -   [jflap2tikz](https://ctan.org/pkg/jflap2tikz) - Convert JFlap file into a LATEX file depicting the automaton using TikZ.
 -   [jigsaw](https://www.ctan.org/pkg/jigsaw) - Draw jigsaw pieces with TikZ.
 -   [karnaugh-map](http://www.ctan.org/tex-archive/graphics/pgf/contrib/karnaugh-map) - LATEX package for drawing karnaugh maps with up to 6 variables.
