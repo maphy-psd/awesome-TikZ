@@ -151,6 +151,7 @@ Contents
 -   [rulercompass](http://www.ctan.org/tex-archive/graphics/pgf/contrib/rulercompass) - A TikZ library for straight-edge and compass diagrams.
 -   [sa-tikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/sa-tikz) - TikZ library to draw switching architectures.
 -   [schemabloc](http://www.ctan.org/tex-archive/graphics/pgf/contrib/schemabloc) - Draw block diagrams, using TikZ.
+-   [Scrabble](https://www.ctan.org/pkg/scrabble) - Commands for Scrabble boards.
 -   [scratch](https://ctan.org/pkg/scratch) - Draw programs like "scratch". (obsolete - see scratch3)
 -   [scratchx](https://ctan.org/pkg/scratchx) - Include Scratch programs in LATEX documents.
 -   [scratch3](https://www.ctan.org/pkg/scratch3) - Draw programs like "scratch".
