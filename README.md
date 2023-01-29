@@ -132,6 +132,7 @@ Contents
 -   [pgfplotstable](https://ctan.org/pkg/pgfplotstable) - Loads, rounds, formats and postprocesses numerical tables.
 -   [pinoutikz](https://www.ctan.org/pkg/pinoutikz) - Draw chip pinouts with TikZ.
 -   [pixelart](https://ctan.org/pkg/pixelart) - A package to draw pixel-art pictures.
+-   [PixelArtTikz](https://www.ctan.org/pkg/pixelarttikz) - Work with PixelArts, with TikZ.
 -   [PuyoTikZ](https://www.ctan.org/pkg/puyotikz) - Quickly typeset board states of Puyo Puyo games.
 -   [productbox](https://ctan.org/pkg/productbox) - Typeset a three-dimensional product box.
 -   [proflabo](https://www.ctan.org/pkg/proflabo) - Draw laboratory equipment.
@@ -166,6 +167,7 @@ Contents
 -   [strands](https://www.ctan.org/pkg/strands) - Draw objects constructed from strands.
 -   [structmech](https://www.ctan.org/pkg/structmech) - A TikZ command set for structural mechanics drawings.
 -   [tablvar](https://www.ctan.org/pkg/tablvar) - Typesetting pretty tables of signs and variations according to French usage.
+-   [TangramTikz](https://www.ctan.org/pkg/tangramtikz) - Tangram puzzles, with TikZ.
 -   [termsim](https://www.ctan.org/pkg/termsim) - Simulate Win10, Ubuntu, and Mac terminals.
 -   [ticollege](http://www.ctan.org/tex-archive/graphics/pgf/contrib/ticollege) - Graphical representation of keys on a standard scientific calculator.
 -   [tikz-3dplot](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-3dplot) - Coordinate transformation styles for 3d plotting in TikZ.
