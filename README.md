@@ -123,16 +123,18 @@ Contents
 -   [pgf-PeriodicTable](https://www.ctan.org/pkg/pgf-periodictable) - Create custom periodic tables of elements.
 -   [pgf-pie](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-pie) - Draw pie charts, using PGF.
 -   [pgf-soroban](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-soroban) - Create images of the soroban using TikZ/PGF.
--   [pgf-spectra](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-spectra) - Draw continuous or discrete spectra using PGF/TikZ.
+-   [pgf-spectra](https://www.ctan.org/pkg/pgf-spectra) - Draw continuous or discrete spectra using PGF/TikZ.
 -   [pgf-umlcd](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-umlcd) - Some LATEX macros for UML Class Diagrams.
 -   [pgf-umlsd](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-umlsd) - Draw UML Sequence Diagrams.
 -   [pgfgantt](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgfgantt) - Draw Gantt charts with TikZ.
 -   [pgfornament](https://ctan.org/pkg/pgfornament) - Drawing of Vectorian ornaments with PGF/TikZ.
+-   [pgfornament-han](https://www.ctan.org/pkg/pgfornament-han) - pgfornament library for Chinese traditional motifs and patterns.
 -   [pgfplots](https://www.ctan.org/pkg/pgfplots) - Create normal/logarithmic plots in two and three dimensions
 -   [pgfplotstable](https://ctan.org/pkg/pgfplotstable) - Loads, rounds, formats and postprocesses numerical tables.
 -   [pinoutikz](https://www.ctan.org/pkg/pinoutikz) - Draw chip pinouts with TikZ.
 -   [pixelart](https://ctan.org/pkg/pixelart) - A package to draw pixel-art pictures.
 -   [PixelArtTikz](https://www.ctan.org/pkg/pixelarttikz) - Work with PixelArts, with TikZ.
+-   [playcards](https://www.ctan.org/pkg/playcards) - A simple template for drawing playcards.
 -   [PuyoTikZ](https://www.ctan.org/pkg/puyotikz) - Quickly typeset board states of Puyo Puyo games.
 -   [productbox](https://ctan.org/pkg/productbox) - Typeset a three-dimensional product box.
 -   [proflabo](https://www.ctan.org/pkg/proflabo) - Draw laboratory equipment.
@@ -190,6 +192,7 @@ Contents
 -   [tikz-layers](https://ctan.org/pkg/tikz-layers) - TikZ provides graphical layers on TikZ: "behind", "above" and "glass".
 -   [tikz-nef](https://ctan.org/pkg/tikz-nef) - create diagrams for neural networks constructed with the methods of the Neural Engineering Framework (NEF).
 -   [tikz-network](https://www.ctan.org/pkg/tikz-network) - Draw networks with TikZ.
+-   [tikz-nfold](https://www.ctan.org/pkg/tikz-nfold) -  Triple, quadruple, and n-fold paths with TikZ.
 -   [tikz-opm](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-opm) - Typeset OPM diagrams.
 -   [tikz-optics](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-optics) - A library for drawing optical setups with TikZ.
 -   [tikz-page](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-page) - Small macro to help building nice and complex layout materials.
