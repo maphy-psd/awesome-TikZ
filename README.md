@@ -110,6 +110,7 @@ Contents
 -   [nicematrix](https://ctan.org/pkg/nicematrix) - Improve the typesetting of mathematical matrices with PGF.
 -   [nimsticks](https://www.ctan.org/pkg/nimsticks) - Draws sticks for games of multi-pile Nim.
 -   [nl-interval](https://www.ctan.org/pkg/nl-interval) - Represent intervals on the number line.
+-   [OutilsGeomTikZ](https://www.ctan.org/pkg/outilsgeomtikz) - Some geometric tools, with TikZ.
 -   [oplotsymbl](https://ctan.org/pkg/oplotsymbl) - Some symbols which are not easily available.
 -   [pascaltriangle](https://www.ctan.org/pkg/pascaltriangle) - Draw beautiful Pascal (Yanghui) triangles.
 -   [pas-crosswords](https://ctan.org/pkg/pas-crosswords) - Creating crossword grids, using TikZ.
@@ -245,6 +246,7 @@ Contents
 -   [wheelchart](https://www.ctan.org/pkg/wheelchart) - Draw wheelcharts with TikZ.
 -   [witharrows](https://ctan.org/pkg/witharrows) - "Aligned" math environments with arrows for comments.
 -   [worldflags](https://www.ctan.org/pkg/worldflags) - Drawing flags with TikZ.
+-   [WriteOnGrid](https://www.ctan.org/pkg/writeongrid) - Write on grid lines.
 -   [xebaposter](http://www.ctan.org/tex-archive/graphics/pgf/contrib/xebaposter) - Create beautiful scientific Persian/Latin posters using TikZ.
 -   [xistercian](https://www.ctan.org/pkg/xistercian) - Cistercian numerals in LATEX.
 -   [zx-calculus](https://www.ctan.org/pkg/zx-calculus) - A library to typeset ZX Calculus diagrams.
