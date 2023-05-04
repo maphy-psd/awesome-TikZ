@@ -225,6 +225,7 @@ Contents
 -   [tikzsymbols](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzsymbols) - Some symbols created using TikZ. ([source](https://github.com/Vidabe/tikzsymbols))
 -   [tikzviolinplots](https://www.ctan.org/pkg/tikzviolinplots) - Draws violin plots from data.
 -   [tikz-mirror-lens](https://www.ctan.org/pkg/tikz-mirror-lens) - Spherical mirrors and lenses in TikZ.
+-   [tikz3d-fr](https://www.ctan.org/pkg/tikz3d-fr) - Work with some 3D figures.
 -   [timing-diagrams](http://www.ctan.org/tex-archive/graphics/pgf/contrib/timing-diagrams) - Draw timing diagrams.
 -   [tipfr](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tipfr) - Produces calculator's keys with the help of TikZ.
 -   [tkz-base](https://www.ctan.org/pkg/tkz-base) - Tools for drawing with a cartesian coordinate system.
