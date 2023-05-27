@@ -173,6 +173,8 @@ Contents
 -   [TangramTikz](https://www.ctan.org/pkg/tangramtikz) - Tangram puzzles, with TikZ.
 -   [termsim](https://www.ctan.org/pkg/termsim) - Simulate Win10, Ubuntu, and Mac terminals.
 -   [ticollege](http://www.ctan.org/tex-archive/graphics/pgf/contrib/ticollege) - Graphical representation of keys on a standard scientific calculator.
+-   [tikz2d-fr](https://www.ctan.org/pkg/tikz2d-fr) - Work with some 2D TikZ's command (french).
+-   [tikz3d-fr](https://www.ctan.org/pkg/tikz3d-fr) - Work with some 3D figures.
 -   [tikz-3dplot](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-3dplot) - Coordinate transformation styles for 3d plotting in TikZ.
 -   [tikz-among-us](https://www.ctan.org/pkg/tikz-among-us) - Create some AmongUs characters in TikZ environments.
 -   [tikz-bayesnet](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-bayesnet) - Draw Bayesian networks, graphical models and directed factor graphs.
