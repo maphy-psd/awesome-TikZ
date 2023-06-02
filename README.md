@@ -137,6 +137,7 @@ Contents
 -   [PixelArtTikz](https://www.ctan.org/pkg/pixelarttikz) - Work with PixelArts, with TikZ.
 -   [playcards](https://www.ctan.org/pkg/playcards) - A simple template for drawing playcards.
 -   [PuyoTikZ](https://www.ctan.org/pkg/puyotikz) - Quickly typeset board states of Puyo Puyo games.
+-   [postit](https://www.ctan.org/pkg/postit) - A LATEX package for displaying Post-it notes.
 -   [productbox](https://ctan.org/pkg/productbox) - Typeset a three-dimensional product box.
 -   [proflabo](https://www.ctan.org/pkg/proflabo) - Draw laboratory equipment.
 -   [progressbar](https://ctan.org/pkg/progressbar) - Visualize shares of total amounts in the form of a (progress-)bar.
@@ -168,6 +169,7 @@ Contents
 -   [spath3](http://www.ctan.org/tex-archive/graphics/pgf/contrib/spath3) - Manipulate “soft paths” in PGF.
 -   [stanli](http://www.ctan.org/tex-archive/graphics/pgf/contrib/stanli) - TikZ Library for Structural Analysis.
 -   [strands](https://www.ctan.org/pkg/strands) - Draw objects constructed from strands.
+-   [string-diagrams](https://www.ctan.org/pkg/string-diagrams) - Create string diagrams with LATEX and TikZ.
 -   [structmech](https://www.ctan.org/pkg/structmech) - A TikZ command set for structural mechanics drawings.
 -   [tablvar](https://www.ctan.org/pkg/tablvar) - Typesetting pretty tables of signs and variations according to French usage.
 -   [TangramTikz](https://www.ctan.org/pkg/tangramtikz) - Tangram puzzles, with TikZ.
