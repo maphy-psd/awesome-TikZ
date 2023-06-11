@@ -116,7 +116,7 @@ Contents
 -   [pas-crosswords](https://ctan.org/pkg/pas-crosswords) - Creating crossword grids, using TikZ.
 -   [pas-tableur](https://ctan.org/pkg/pas-tableur) - Create a spreadsheet layout.
 -   [pdfreview](https://ctan.org/pkg/pdfreview) - Annotate PDF files with margin notes.
--   [penrose](https://www.ctan.org/pkg/penrose) - A TikZ library for producing Penrose tilings.
+-   ~~[penrose](https://www.ctan.org/pkg/penrose) - A TikZ library for producing Penrose tilings.~~ **obsolete; superseded by package [tilings](https://www.ctan.org/pkg/tilings)**
 -   [pfdicons](https://www.ctan.org/pkg/pfdicons) - Draw process flow diagrams in chemical engineering.
 -   [pgf-blur](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-blur) - PGF/TikZ package for "blurred" shadows.
 -   [pgf-cmykshadings](https://www.ctan.org/pkg/pgf-cmykshadings) - Support for CMYK and grayscale shadings in PGF/TikZ.
@@ -230,6 +230,7 @@ Contents
 -   [tikzviolinplots](https://www.ctan.org/pkg/tikzviolinplots) - Draws violin plots from data.
 -   [tikz-mirror-lens](https://www.ctan.org/pkg/tikz-mirror-lens) - Spherical mirrors and lenses in TikZ.
 -   [tikz3d-fr](https://www.ctan.org/pkg/tikz3d-fr) - Work with some 3D figures.
+-   [tilings](https://www.ctan.org/pkg/tilings) - A TikZ library for drawing tiles and tilings.
 -   [timing-diagrams](http://www.ctan.org/tex-archive/graphics/pgf/contrib/timing-diagrams) - Draw timing diagrams.
 -   [tipfr](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tipfr) - Produces calculator's keys with the help of TikZ.
 -   [tkz-base](https://www.ctan.org/pkg/tkz-base) - Tools for drawing with a cartesian coordinate system.
