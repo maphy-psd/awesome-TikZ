@@ -151,6 +151,7 @@ Contents
 -   [rest-api](https://www.ctan.org/pkg/rest-api) - Describing a rest api.
 -   [reotex](http://www.ctan.org/tex-archive/graphics/pgf/contrib/reotex) - Draw Reo Channels and Circuits.
 -   [robotarm](https://www.ctan.org/pkg/robotarm) -TikZ powered LATEX package to draw parameterized 2D robot arms.
+-   [robust-externalize](https://www.ctan.org/pkg/robust-externalize) - Cache anything (TikZ, python, ...) in a robust, efficient and pure way.
 -   [RoueQuestions](https://www.ctan.org/pkg/rouequestions) - Draw a "question wheel" (roue de questions).
 -   [rubikcube](https://ctan.org/pkg/rubikcube) - Typeset Rubik cubes and move notation.
 -   [rubiktwocube](https://ctan.org/pkg/rubiktwocube) - Typeset Rubik TwoCubes and move notation.
@@ -236,6 +237,7 @@ Contents
 -   [tipfr](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tipfr) - Produces calculator's keys with the help of TikZ.
 -   [tkz-base](https://www.ctan.org/pkg/tkz-base) - Tools for drawing with a cartesian coordinate system.
 -   [tkz-berge](https://www.ctan.org/pkg/tkz-berge) - Macros for drawing graphs of graph theory.
+-   [tkz-bernoulli](https://www.ctan.org/pkg/tkz-bernoulli) - Draw Bernoulli trees with TikZ.
 -   [tkz-fct](https://www.ctan.org/pkg/tkz-fct) - Tools for drawing graphs of functions.
 -   [tkz-kiviat](https://www.ctan.org/pkg/tkz-kiviat) - Draw Kiviat graphs.
 -   [tkz-linknodes](https://www.ctan.org/pkg/tkz-linknodes) - Link nodes in mathematical environments.
