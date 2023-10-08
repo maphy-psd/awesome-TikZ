@@ -52,6 +52,7 @@ Contents
 -   [causets](https://www.ctan.org/pkg/causets) - Draw causal set (Hasse) diagrams.
 -   [celtic](http://www.ctan.org/tex-archive/graphics/pgf/contrib/celtic) - A TikZ library for drawing celtic knots.
 -   [circuitikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/circuitikz) - Draw electrical networks with TikZ.
+-   [circularglyphs](https://www.ctan.org/pkg/circularglyphs) - A circular glyphs alphabet.
 -   [chemfig](https://ctan.org/pkg/chemfig) - Draw molecules with easy syntax.
 -   [chemplants](https://www.ctan.org/pkg/chemplants) - Symbology to draw chemical plants with TikZ.
 -   [chemschemex](https://ctan.org/pkg/chemschemex) - Typeset and cross-reference chemical schemes based on TikZ code.
