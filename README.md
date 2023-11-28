@@ -26,6 +26,7 @@ Contents
 
 ## Packages
 -   [adigraph](https://ctan.org/pkg/adigraph) - Augmenting directed graphs.
+-   [argumentation](https://www.ctan.org/pkg/argumentation) - Create abstract argumentation frameworks via TikZ.
 -   [algobox](https://ctan.org/pkg/algobox) - Typeset Algobox programs.
 -   [annotate-equations](https://www.ctan.org/pkg/annotate-equations) - Easily annotate math equations using TikZ.
 -   [aobs-tikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/aobs-tikz) - TikZ styles for creating overlaid pictures in beamer.
@@ -98,6 +99,7 @@ Contents
 -   [liftarm](https://www.ctan.org/pkg/liftarm) - Draw liftarms.
 -   [luamesh](https://ctan.org/pkg/luamesh) - Computes and draws 2D Delaunay triangulation.
 -   [logicpuzzle](http://www.ctan.org/tex-archive/graphics/pgf/contrib/logicpuzzle) - Typeset (grid-based) logic puzzles.
+-   [magicwatermark](https://www.ctan.org/pkg/magicwatermark) - An easy and flexible way to set watermarks.
 -   [makeshape](http://www.ctan.org/tex-archive/graphics/pgf/contrib/makeshape) - Declare new PGF shapes.
 -   [messagepassing](https://www.ctan.org/pkg/messagepassing) - Draw diagrams to represent communication protocols.
 -   [memorygraphs](https://www.ctan.org/pkg/memorygraphs) - TikZ styles to typeset graphs of program memory.
@@ -138,15 +140,19 @@ Contents
 -   [PixelArtTikz](https://www.ctan.org/pkg/pixelarttikz) - Work with PixelArts, with TikZ.
 -   [playcards](https://www.ctan.org/pkg/playcards) - A simple template for drawing playcards.
 -   [PuyoTikZ](https://www.ctan.org/pkg/puyotikz) - Quickly typeset board states of Puyo Puyo games.
+-   [pmdraw](https://www.ctan.org/pkg/pmdraw) - Draw elements of partition monoids.
+-   [polyhedra](https://www.ctan.org/pkg/polyhedra) - A TikZ package for drawing polyhedra.
 -   [postit](https://www.ctan.org/pkg/postit) - A LATEX package for displaying Post-it notes.
 -   [productbox](https://ctan.org/pkg/productbox) - Typeset a three-dimensional product box.
 -   [proflabo](https://www.ctan.org/pkg/proflabo) - Draw laboratory equipment.
+-   [ProfSio](https://www.ctan.org/pkg/profsio) - Commands (with TikZ) to work with French “BTS SIO” maths themes.
 -   [progressbar](https://ctan.org/pkg/progressbar) - Visualize shares of total amounts in the form of a (progress-)bar.
 -   [prooftrees](http://www.ctan.org/tex-archive/graphics/pgf/contrib/prooftrees) - Forest-based proof trees (symbolic logic).
 -   [pstring](https://ctan.org/pkg/pstring) - Typeset sequences with justification pointers.
 -   [ptolemaicastronomy](https://www.ctan.org/pkg/ptolemaicastronomy) - Diagrams of sphere models for variably strict conditionals (Lewis counterfactuals).
 -   [pxpgfmark](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pxpgfmark) - e-pTEX driver for PGF inter-picture connections.
 -   [quantikz](https://www.ctan.org/pkg/quantikz) - Draw quantum circuit diagrams.
+-   [quizztex](https://www.ctan.org/pkg/quizztex) - Create quizzes like in TV shows.
 -   [randomwalk](https://ctan.org/pkg/randomwalk) - Random walks using TikZ.
 -   [rank-2-roots](https://www.ctan.org/pkg/rank-2-roots) - Draw (mathematical) rank 2 root systems.
 -   [rest-api](https://www.ctan.org/pkg/rest-api) - Describing a rest api.
@@ -167,6 +173,7 @@ Contents
 -   [semesterplanner](https://www.ctan.org/pkg/semesterplanner) - Create beautiful semester timetables and more.
 -   [setdeck](http://www.ctan.org/tex-archive/graphics/pgf/contrib/setdeck) - Typeset cards for Set.
 -   [simplenodes](https://www.ctan.org/pkg/simplenodes) - Simple nodes in four colors written in TikZ for LATEX.
+-   [sim-os-menus](https://www.ctan.org/pkg/sim-os-menus) - Insert 'terminal' or 'context menu' or 'viewers' like in an OS.
 -   [smartdiagram](http://www.ctan.org/tex-archive/graphics/pgf/contrib/smartdiagram) - Generate diagrams from lists.
 -   [spectralsequences](https://ctan.org/pkg/spectralsequences) - Print spectral sequence diagrams using PGF/TikZ.
 -   [spath3](http://www.ctan.org/tex-archive/graphics/pgf/contrib/spath3) - Manipulate “soft paths” in PGF.
@@ -198,11 +205,13 @@ Contents
 -   [tikz-ladder](https://ctan.org/pkg/tikz-ladder) - Draw ladder diagrams using TikZ.
 -   [tikz-lake-fig](https://www.ctan.org/pkg/tikz-lake-fig) - Schematic diagrams of lakes.
 -   [tikz-layers](https://ctan.org/pkg/tikz-layers) - TikZ provides graphical layers on TikZ: "behind", "above" and "glass".
+-   [tikz-mirror-lens](https://www.ctan.org/pkg/tikz-mirror-lens) - Spherical mirrors and lenses in TikZ.
 -   [tikz-nef](https://ctan.org/pkg/tikz-nef) - create diagrams for neural networks constructed with the methods of the Neural Engineering Framework (NEF).
 -   [tikz-network](https://www.ctan.org/pkg/tikz-network) - Draw networks with TikZ.
 -   [tikz-nfold](https://www.ctan.org/pkg/tikz-nfold) -  Triple, quadruple, and n-fold paths with TikZ.
 -   [tikz-opm](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-opm) - Typeset OPM diagrams.
 -   [tikz-optics](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-optics) - A library for drawing optical setups with TikZ.
+-   [tikz-osci](https://www.ctan.org/pkg/tikz-osci) - Produce oscilloscope “screen shots”.
 -   [tikz-page](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-page) - Small macro to help building nice and complex layout materials.
 -   [tikz-palattice](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikz-palattice) - Draw particle accelerator lattices with TikZ.
 -   [TikZ-planets](https://www.ctan.org/pkg/tikz-planets) - Illustrate celestial mechanics and the solar system.
@@ -232,6 +241,7 @@ Contents
 -   [tikzsymbols](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzsymbols) - Some symbols created using TikZ. ([source](https://github.com/Vidabe/tikzsymbols))
 -   [tikzviolinplots](https://www.ctan.org/pkg/tikzviolinplots) - Draws violin plots from data.
 -   [tikz-mirror-lens](https://www.ctan.org/pkg/tikz-mirror-lens) - Spherical mirrors and lenses in TikZ.
+-   [tikzviolinplots](https://www.ctan.org/pkg/tikzviolinplots) - Draws violin plots from data.
 -   [tikz3d-fr](https://www.ctan.org/pkg/tikz3d-fr) - Work with some 3D figures.
 -   [tilings](https://www.ctan.org/pkg/tilings) - A TikZ library for drawing tiles and tilings.
 -   [timing-diagrams](http://www.ctan.org/tex-archive/graphics/pgf/contrib/timing-diagrams) - Draw timing diagrams.
@@ -239,6 +249,7 @@ Contents
 -   [tkz-base](https://www.ctan.org/pkg/tkz-base) - Tools for drawing with a cartesian coordinate system.
 -   [tkz-berge](https://www.ctan.org/pkg/tkz-berge) - Macros for drawing graphs of graph theory.
 -   [tkz-bernoulli](https://www.ctan.org/pkg/tkz-bernoulli) - Draw Bernoulli trees with TikZ.
+-   [tkz-elements](https://ctan.org/pkg/tkz-elements) - A Lua library for drawing Euclidean geometry with TikZ or tkz-euclide.
 -   [tkz-fct](https://www.ctan.org/pkg/tkz-fct) - Tools for drawing graphs of functions.
 -   [tkz-kiviat](https://www.ctan.org/pkg/tkz-kiviat) - Draw Kiviat graphs.
 -   [tkz-linknodes](https://www.ctan.org/pkg/tkz-linknodes) - Link nodes in mathematical environments.
@@ -255,6 +266,7 @@ Contents
 -   [wargame](https://www.ctan.org/pkg/wargame) - A LATEX package to prepare hex'n'counter wargames.
 -   [wheelchart](https://www.ctan.org/pkg/wheelchart) - Draw wheelcharts with TikZ.
 -   [witharrows](https://ctan.org/pkg/witharrows) - "Aligned" math environments with arrows for comments.
+-   [wordle](https://www.ctan.org/pkg/wordle) - Create wordle grids.
 -   [worldflags](https://www.ctan.org/pkg/worldflags) - Drawing flags with TikZ.
 -   [WriteOnGrid](https://www.ctan.org/pkg/writeongrid) - Write on grid lines.
 -   [xebaposter](http://www.ctan.org/tex-archive/graphics/pgf/contrib/xebaposter) - Create beautiful scientific Persian/Latin posters using TikZ.
