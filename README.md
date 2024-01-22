@@ -225,6 +225,7 @@ Contents
 -   [TikZbricks](https://www.ctan.org/pkg/tikzbricks) - Drawing bricks with TikZ.
 -   [tikzcodeblocks](https://ctan.org/pkg/tikzcodeblocks) - Helps to draw codeblocks like scratch, NEPO and PXT in TikZ.
 -   [tikzducks](https://ctan.org/pkg/tikzducks) - A little fun package for using rubber ducks in TikZ.
+-   [tikzdotncross](https://www.ctan.org/pkg/tikzdotncross) - Small set of macros for defining/marking coordinates and crossing (jumps) paths.
 -   [tikzfill](https://www.ctan.org/pkg/tikzfill) - TikZ libraries for filling with images and patterns.
 -   [tikzinclude](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzinclude) - Import TikZ images from colletions.
 -   [TikZlings](https://www.ctan.org/pkg/tikzlings) - A collection of cute little animals and similar creatures.
@@ -241,6 +242,8 @@ Contents
 -   [tikzsymbols](http://www.ctan.org/tex-archive/graphics/pgf/contrib/tikzsymbols) - Some symbols created using TikZ. ([source](https://github.com/Vidabe/tikzsymbols))
 -   [tikzviolinplots](https://www.ctan.org/pkg/tikzviolinplots) - Draws violin plots from data.
 -   [tikz-mirror-lens](https://www.ctan.org/pkg/tikz-mirror-lens) - Spherical mirrors and lenses in TikZ.
+-   [tikzquads](https://www.ctan.org/pkg/tikzquads) - A few shapes designed to be used with CircuiTikZ.
+-   [tikzquests](https://www.ctan.org/pkg/tikzquests) - A parametric questions’ repositories framework.
 -   [tikzviolinplots](https://www.ctan.org/pkg/tikzviolinplots) - Draws violin plots from data.
 -   [tikz3d-fr](https://www.ctan.org/pkg/tikz3d-fr) - Work with some 3D figures.
 -   [tilings](https://www.ctan.org/pkg/tilings) - A TikZ library for drawing tiles and tilings.
