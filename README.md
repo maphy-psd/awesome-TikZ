@@ -135,6 +135,7 @@ Contents
 -   [pgfornament-han](https://www.ctan.org/pkg/pgfornament-han) - pgfornament library for Chinese traditional motifs and patterns.
 -   [pgfplots](https://www.ctan.org/pkg/pgfplots) - Create normal/logarithmic plots in two and three dimensions
 -   [pgfplotstable](https://ctan.org/pkg/pgfplotstable) - Loads, rounds, formats and postprocesses numerical tables.
+-   [pictochrono](https://www.ctan.org/pkg/pictochrono) - Insert "chronometer pictograms" with a duration.
 -   [pinoutikz](https://www.ctan.org/pkg/pinoutikz) - Draw chip pinouts with TikZ.
 -   [pixelart](https://ctan.org/pkg/pixelart) - A package to draw pixel-art pictures.
 -   [PixelArtTikz](https://www.ctan.org/pkg/pixelarttikz) - Work with PixelArts, with TikZ.
