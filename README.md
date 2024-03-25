@@ -70,6 +70,7 @@ Contents
 -   [dynkin-diagrams](https://ctan.org/pkg/dynkin-diagrams) - Draw Dynkin, Coxeter, and Satake diagrams using TikZ.
 -   [easing](https://www.ctan.org/pkg/easing) - easing functions for pgfmath.
 -   [endiagram](https://www.ctan.org/pkg/endiagram) - Easy creation of potential energy curve diagrams.
+-   [FadingImage](https://www.ctan.org/pkg/fadingimage) - Add full width fading pictures at the top or bottom of a page.
 -   [fancytabs](https://ctan.org/pkg/fancytabs) - Fancy page border tabs.
 -   [fancyqr](https://www.ctan.org/pkg/fancyqr) - Fancy QR-Codes with TikZ.
 -   [fast-diagram](http://www.ctan.org/tex-archive/graphics/pgf/contrib/fast-diagram) - Easy generation of FAST diagrams.
